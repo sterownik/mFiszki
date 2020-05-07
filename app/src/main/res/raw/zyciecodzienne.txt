@@ -1,0 +1,556 @@
+adoption - adopcja
+ancestor - przodek
+aunt - ciotka
+brother - brat
+brother in law - szwagier
+child - dziecko
+cousin - kuzyn; kuzynka
+daughter - córka
+daughter in law - synowa
+descendant - potomek
+divorce - rozwód
+elder sister - starsza siostra
+extended family - dalsza rodzina
+family life - życie rodzinne
+family reunion - spotkanie rodzinne
+family -  rodzina
+father in law - teść
+foster family - rodzina zastępcza
+foster child - przybrane dziecko
+generation - pokolenie
+grandchildren - wnuki
+grandfather - dziadek
+grandmother - babcia
+grandson - wnuk
+half brother - brat przyrodni
+half sister - siostra przyrodnia
+husband - mąż
+marriage - małżeństwo
+married - zamężna
+to marry someone - poślubić kogoś
+mother - mama
+mother in law - teściowa
+multi generation family - rodzina wielopokoleniowa
+nephew - siostrzeniec
+next of kin - najbliższy krewny
+niece - siostrzenica
+numerous family - rodzina wielodzietna
+only child - jedynak
+orphan - sierota
+parents - rodzice
+to raise a family - założyć rodzinę
+relatives - krewni
+sister - siostra
+sister in law - bratowa
+son - syn
+son in law - zięć
+step father - ojczym
+step mother - macocha
+twin - bliźniak
+uncle - wujek
+upbringing - wychowanie
+widow - wdowa
+widower - wdowiec
+wife - żona
+accommodation - zakwaterowanie
+attic - strych
+balcony - balkon
+bathroom - łazienka
+bedroom - sypialnia
+ceiling - sufit
+cellar - piwnica
+central heating - centralne ogrzewanie
+chimney - komin
+corridor - korytarz
+dining room - jadalnia
+door - drzwi
+door mat - wycieraczka do butów
+doorbell - dzwonek do drzwi
+family house - dom jednorodzinny
+fireplace - kominek
+flat; apartment - mieszkanie
+garret - poddasze
+gate - furtka
+hall - przedpokój
+hedge - żywopłot
+house - dom (mieszkalny)
+kitchen - kuchnia
+letterbox - skrzynka na listy
+lighting - oświetlenie
+lightning rod - piorunochron
+living room - pokój dzienny
+mortgage - hipoteka
+to move in - wprowadzić się
+to move out - wyprowadzić się
+real estate - nieruchomość
+rent - czynsz
+roof - dach
+room - pokój
+running water - bieżąca woda
+semi detached house - bliźniak
+sewage system - kanalizacja
+suite - apartament
+tenement - czynszowy
+threshold - próg
+toilet - toaleta
+view finder - judasz; wizjer
+wainscot - boazeria
+wall - ściana
+window - okno
+window sill - parapet
+alarm clock - budzik
+armchair - fotel
+bed - łóżko
+bunk beds - łóżko piętrowe
+carpet - dywan
+chair - krzesło
+container - pojemnik
+cup - filiżanka
+curtain - zasłona
+cutlery - sztućce
+dishwasher - zmywarka
+drawer - szuflada
+floor - podłoga
+fork - widelec
+freezer - zamrażarka
+fridge - lodówka
+furniture - meble
+glass - szklanka
+heater - grzejnik
+knife - nóż
+lamp - lampa
+lock - zamek
+mirror - lustro
+mug - kubek
+oven - piekarnik
+pan - patelnia
+piece of furniture - mebel
+radiator - kaloryfer
+sheet - prześcieradło
+sink - zlewozmywak
+soap - mydło
+sofa - sofa; kanapa
+spoon - łyżka
+table - stół
+tablecloth - obrus
+tableware - zastawa stołowa
+torch - latarka
+wardrobe - szafa
+washbasin - umywalka
+washing machine - pralka
+biscuit sheet - blacha do ciasteczek
+bootle opener - otwieracz do butelek
+butter curler - nóż do formowania masła
+cake tin - forma do pieczenia
+cheese knife - nóż do krojenia sera
+cleaver - tasak
+colander - durszlak
+corkscrew - korkociąg
+cup - filiżanka; kielich
+cutlery - sztućce
+dessert fork - widelec deserowy
+dinner fork - widelec obiadowy
+draining spoon - łyżka do odsączania
+egg timer - minutnik (do gotowania jajek)
+fish fork - widelec do ryb
+funnel - lejek
+garlic press - wyciskarka do czosnku
+grater - tarka
+kitchen timer - minutnik (kuchenny)
+kitchen utensils - przybory kuchenne
+knife - nóż
+ladle - chochla
+measuring spoon - łyżka do odmierzania
+mincer - maszynka do mięsa
+nutcracker - dziadek do orzechów
+oyster fork - widelec do ostryg
+pasta maker - maszynka do makaronu
+pastry cutting wheel - radełko
+peeler - obieraczka
+pepperpot - pieprzniczka
+plate - talerz
+potato masher - ugniatacz do ziemniaków
+rolling pin - wałek
+salad fork - widelec do sałatek
+salad spinner - wirówka do sałaty
+salt cellar - solniczka
+saucer - spodek
+sifter - przesiewacz
+silverware - zastawa stołowa
+skimmer - cedzidło
+spoon - łyżka
+strainer - sitko
+sugar basin - cukiernica
+tablespoon - łyżka stołowa
+tea infuser - zaparzacz do herbaty
+teaspoon - łyżeczka do herbaty
+tin opener - otwieracz do konserw
+tray - taca; tacka; podstawka
+whisk - trzepaczka
+zester - skrobak do cytrusów
+bidet - bidet
+black-head - wągier
+to brush teeth - myć zęby
+to comb hair - czesać włosy
+dirt - brud
+dirty - brudny
+to file nails - piłować paznokcie
+to flush the toilet - spłukać toaletę
+to have a shower - brać prysznic
+hygiene - higiena
+hygienic - higieniczny
+lavatory seat - sedes
+to rinse hair - płukać włosy
+to rinse mouth - płukać usta; wypłukać usta
+shaving - golenie
+soap dish - mydelniczka
+soap - mydło
+sponge - gąbka
+toilet - toaleta
+toothbrush - szczoteczka do zębów
+toothpaste - pasta do zębów
+towel - ręcznik
+urinal - pisuar
+to wash hair - myć włosy
+to wash - myć się
+washbasin - umywalka
+bag - saszetka
+box of matches - pudełko zapałek
+bracelet - bransoleta
+briefcase - aktówka
+calendar - kalendarz
+cap - czapka
+car keys - kluczyki do samochodu
+chain - łańcuszek
+chewing gum - guma do żucia
+coin - moneta
+comb - grzebień
+contact lens - szkła kontaktowe
+credit card - karta kredytowa
+dental thread - nić dentystyczna
+deodorant - dezodorant
+diary - terminarz
+earring - kolczyk
+fountain pen - pióro wieczne
+glasses - okulary
+handkerchief - chusteczka do nosa
+hat - kapelusz
+jewel - klejnot
+jewellery - biżuteria
+key - klucz
+laptop - laptop
+lighter - zapalniczka
+lipstick - szminka
+locket - medalionik
+mobile phone - telefon komórkowy
+money - pieniądze
+nail file - pilniczek do paznokci
+nail scissors - nożyczki do paznokci
+necklace - naszyjnik
+passport - paszport
+pen - pióro
+pencil - ołówek
+pendant - wisiorek
+phone card - karta telefoniczna
+powder puff - puderniczka
+purse - portmonetka
+razor - 1. brzytwa 2. golarka
+ring - pierścionek
+scarf - szalik
+scissors - nożyczki
+shampoo - szampon
+soap - mydło
+sunglasses - okulary przeciwsłoneczne
+toilet paper - papier toaletowy
+toothpaste - pasta do zębów
+toothpick - wykałaczka
+towel - ręcznik
+underwear - bielizna
+vanity case - kosmetyczka
+wallet - portfel
+watch - zegarek
+wedding ring - obrączka
+to be in a hurry - spieszyć się
+to clean - czyścić
+to comb - czesać
+to cook dinner - gotować obiad
+to cook - gotować
+to do exercises - gimnastykować się
+to drink - pić
+to dry - suszyć
+to dust - ścierać kurz(e)
+to eat - jeść
+to empty the bin - wyrzucić śmieci
+to exercise - ćwiczyć
+to fall asleep - zasypiać
+to fall into routine - wpaść w rutynę
+to get dressed - ubierać się
+to go jogging - iść pobiegać
+to go shopping - iść na zakupy
+to gossip - plotkować
+to have a bath - kąpać się
+to help - pomagać
+to hoover - odkurzać
+to iron - prasować
+to listen a music - słuchać muzyki
+to make the bed - ścielić łóżko
+to meet - spotkać
+nap - drzemka
+to read a book - czytać książkę
+relaxation - relaks
+rest - odpoczynek
+routine - rutyna
+to shave - golić się
+to sleep - spać
+to sweep - zamiatać
+to take a shower - brać prysznic
+to undress - rozebrać się
+to wait for a bus - czekać na autobus
+to wake up - budzić się
+to walk - chodzić; spacerować
+to walk the dog - wyprowadzać psa;
+to wash - prać
+to wash up the dishes - zmywać naczynia
+to watch television - oglądać telewizję
+to write - pisać
+baby - niemowlę; dziecko
+baby boy - chłopczyk
+baby carriage (US) - wózek dziecięcy
+baby girl - dziewczynka
+babyhood - niemowlęctwo; okres niemowlęcy
+babyish - dziecinny
+bib - śliniaczek
+to breast-feed - karmić piersią
+Caesarean section - cesarskie cięcie
+to change a baby - przewijać niemowlę
+child - dziecko
+child-mind - opieka nad dzieckiem
+childish - dziecinny
+children - dzieci
+cradle - kołyska
+don't be a baby! - nie bądź dzieckiem!
+to dribble - ślinić się (o dziecku)
+dummy - smoczek
+expectant mother - przyszła matka
+feeding bootle - butelka dla niemowląt
+to get pregnant - zajść w ciążę
+infancy - niemowlęctwo
+infant - niemowlę
+labour pains - bóle porodowe
+layette - wyprawka niemowlęca
+lullaby - kołysanka
+maternal - macierzyński
+maternity - macierzyństwo
+maternity dress - suknia ciążowa
+maternity hospital - szpital położniczy
+mother-to-be - przyszła matka
+motherhood - macierzyństwo
+motherly - macierzyński; matczyny
+nappy - pieluszka
+nappy rash - odparzenie od pieluszki
+natural childbirth - poród naturalny
+postnatal - poporodowy
+pram (BRIT) - wózek dziecięcy
+pregnancy - ciąża
+pregnancy test - test ciążowy
+pregnant - w ciąży
+pregnant woman - kobieta w ciąży
+premature baby - wcześniak
+quadruplets - czworaczki
+quintuplets - pięcioraczki
+rompers - pajacyk (ubranie)
+seesaw - huśtawka
+spade - łopatka (zabawka)
+to spank - dawać klapsa; dać klapsa
+stuffed toy - pluszowa zabawka
+to suckle - karmić piersią
+test-tube baby - dziecko z probówki
+the child is in my care - dziecko jest pod moją opieką
+three months pregnant - w trzecim miesiącu ciąży
+toddler - brzdąc; berbeć
+tot - szkrab; brzdąc
+toy - zabawka
+toy car - samochodzik
+toy soldier - żołnierzyk
+triplets - trojaczki
+a bridal gown - suknia ślubna
+best man - drużba
+bridal - ślubny; weselny
+bridal couple - państwo młodzi
+bride - panna młoda
+bridegroom - pan młody
+bridesmaid - druhna
+bridesman - drużba
+church wedding - ślub kościelny
+civil wedding - ślub cywilny
+to get married - brać ślub
+gilded invitations - pozłacane zaproszenia
+guests - goście
+marriage certificate - akt ślubu
+to marry - poślubiać; ożenić się; wychodzić za mąż
+newly-weds - nowożeńcy; państwo młodzi
+nuptial - ślub; zaślubiny; ślubny; weselny
+royal wedding - ślub królewski
+stag party - wieczór kawalerski
+the hotel's bridal suite - apartament dla nowożeńców
+they were married in 1990 - pobrali się w 1990
+to wed - żenić się; wychodzić za mąż
+to wedd - poślubiać; poślubić
+wedding - ślub; wesele
+wedding anniversary - rocznica ślubu
+wedding ceremony - ceremonia ślubna
+wedding day - dzień ślubu
+wedding dress - suknia ślubna
+wedding present - prezent ślubny
+wedding procession - orszak ślubny
+wedding ring - obrączka ślubna
+afterlife - życie pośmiertne
+autopsy - sekcja zwłok
+to be afraid of death - bać się śmierci
+beheading - ścięcie
+to bury - pogrzebać
+coffin - trumna
+to commit suicide - popełnić samobójstwo
+corpse - zwłoki
+corpse - zwłoki
+to cremate - skremować
+cremation - kremacja
+crematorium - krematorium
+dead body - zwłoki
+dead man - martwy mężczyzna
+dead - martwy
+death by hanging - śmierć przez powieszenie
+death certificate - akt zgonu
+death - śmierć
+deceased - nieboszczyk
+to die - umrzeć
+dying - umieranie; umierający
+epitaph - epitafium
+euthanasia - eutanazja
+execution - egzekucja
+fratricide - bratobójstwo
+funeral home - dom pogrzebowy
+funeral - pogrzeb
+grave - grób
+gravedigger - grabarz
+gravestone - nagrobek
+graveyard - cmentarz
+he died a natural death - zmarł śmiercią naturalną
+he died of cancer - umarł na raka
+hospice - hospicjum
+to kill - zabić
+mortal - śmiertelny
+national mourning - żałoba narodowa
+obituary - nekrolog
+on his deathbed - na łożu śmierci
+patricide - ojcobójstwo
+to perform an autopsy - przeprowadzić sekcję zwłok
+to perish - zginąć
+soul - dusza
+stoning - ukamieniowanie
+suicide - samobójstwo
+testament - testament
+tomb - grobowiec
+Tomb of the Unknown Soldier - Grób Nieznanego Żołnierza
+urn - urna
+widow - wdowa
+widower - wdowiec
+will - ostatnia wola; testament
+wreath - wieniec
+at bedtime - przed zaśnięciem
+to be asleep - spać
+to bed down - ułożyć się do spania
+to doze - drzemać
+to doze off - zdrzemnąć się
+to drowse - drzemać
+drowsy - senny; śpiący
+earplugs - zatyczki do uszu
+to go to sleep - zasypiać; zasnąć
+to have an early night - położyć się wcześniej spać
+to have a nap - ucinać sobie drzemkę; uciąć sobie drzemkę
+insomnia - bezsenność
+it's bedtime - pora spać
+to make the bed - słać łóżko; posłać łóżko
+sleep - sen
+to sleep - spać
+to sleep in - zaspać
+to sleep lightly - mieć lekki sen
+sleepily - sennie
+sleepless - bezsenny
+sleeplessness - bezsenność
+sleepwalker - lunatyk/lunatyczka
+sleepy - śpiący; senny
+snooze - drzemka
+to snooze - drzemać
+snore - chrapanie
+to snore - chrapać
+to suppress a yawn - stłumić ziewnięcie
+to yawn - ziewać
+yawn - ziewnięcie
+to attend classes - chodzić na zajęcia
+board - tablica
+break - przerwa
+cheat sheet - ściąga
+classroom - sala lekcyjna
+to collect homework - zebrać zadania domowe
+composition - wypracowanie
+demanding - wymagający
+dictation - dyktando
+to do well at school - dobrze się uczyć
+entrance examination - egzamin wstępny
+essay - esej
+form teacher - wychowawca klasy
+fourth form - czwarta klasa
+good marks - dobre oceny
+grade - ocena
+grammar school - szkoła średnia
+groupwork - praca w grupach
+headmaster - dyrektor szkoły
+homework - zadanie domowe
+to learn - uczyć się
+lesson - lekcja
+low marks - słabe oceny
+mark - ocena
+to mark - oceniać  ocenić
+to miss classes - opuszczać lekcje
+pairwork - praca w parach
+to play hooky/truant - chodzić na wagary
+primary school - szkoła podstawowa
+public school - elitarna szkoła prywatna
+pupil - uczeń
+put up one's hand - zgłaszać się
+to repeat a year - powtarzać rok
+school report (BRIT) - świadectwo szkolne
+schooldays - szkolne lata
+schooling - nauka szkolna
+secondary school - szkoła średnia
+subject of a lesson - temat lekcji
+to take tests - pisać testy
+to teach - uczyć; nauczać
+teacher - nauczyciel
+teaching aids - pomoce naukowe
+vocational school - szkoła zawodowa
+Bachelor's degree programme - studia licencjackie
+chancellor - rektor
+college - szkoła wyższa; uczelnia; kolegium
+dean - dziekan
+examination - egzamin
+to examine - egzaminować
+faculty - wydział
+to fail an exam - nie zdać egzaminu
+graduate - absolwent
+graduate student - student ostatniego roku
+graduate study - studia podyplomowe
+lecture/lecturer - wykład/wykładowca
+Master of Arts - magister nauk humanistycznych
+Master's degree programme - studia magisterskie
+oral examination - egzamin ustny
+to pass an exam - zdać egzamin
+professor - profesor
+semester - semestr
+seminar - seminarium
+study - studia; studiować
+to study for an exam - uczyć się na egzamin
+teacher training college - kolegium nauczycielskie
+university - uniwersytet
+written examination - egzamin pisemny

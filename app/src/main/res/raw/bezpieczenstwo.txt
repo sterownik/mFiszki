@@ -1,0 +1,530 @@
+affair - afera
+armed - uzbrojony
+arson - podpalenie
+assault - napad
+attempted murder - usiłowanie zabójstwa
+to beat sb unconscious - pobić kogoś do nieprzytomności
+blackmail - szantaż
+blackmailer - szantażysta
+brawl - bijatyka; burda
+bribe - łapówka
+brutal - brutalny
+bullet-proof - kuloodporny
+burglar - włamywacz
+burglary - włamanie
+by force - przy użyciu siły
+circumstances - okoliczności
+circumstantial evidence - poszlaki
+to commit a crime - popełnić przestępstwo
+cop - gliniarz
+crime - przestępczość; przestępstwo
+danger - niebezpieczeństwo
+dangerous - niebezpieczny
+dangerously - niebezpiecznie
+death - śmierć
+to demand a ransom - żądać okupu
+to denigrate - oczerniać oczernić
+deport - deportować
+disorderly conduct - zakłócanie porządku publicznego
+to embezzle - sprzeniewierzać; sprzeniewierzyć
+embezzler - malwersant
+felon - zbrodniarz
+felony - ciężkie przestępstwo; zbrodnia
+forgery - fałszerstwo
+fraud - oszustwo; oszust
+fraudulent - oszukańczy
+gang - gang
+gang warfare - wojna gangów
+gangster - gangster
+handcuffs - kajdanki
+he has a criminal record - był wcześniej karany
+hijacking - porwanie samolotu
+hoodlum - bandzior
+hooligan - chuligan
+injured party - poszkodowany
+injustice - niesprawiedliwość
+interrogation - przesłuchanie
+investigation - śledztwo; dochodzenie
+investigator - śledczy
+kidnapping - porwanie
+killer - zabójca
+manslaughter - nieumyślne spowodowanie śmierci
+mercy - litość
+misadventure - nieszczęśliwy wypadek
+motive - motyw
+mugger - zbir; bandyta uliczny
+mugging - pobicie
+mugging - napad uliczny
+murder - morderstwo
+murderer - morderca
+murderess - morderczyni
+to perjure - krzywoprzysięgać
+perjury - krzywoprzysięstwo
+pickpocket - kieszonkowiec
+pilfering - drobne kradzieże
+ransom - okup
+rape - gwałt
+rapist - gwałciciel
+riot - zamieszki
+robber - rabuś
+robbery - napad rabunkowy
+safe-breaker (BRIT) - kasiarz
+safe-conduct (BRIT) - list żelazny; glejt
+shoplifting - kradzież sklepowa
+smuggler - przemytnik
+smuggling - przemyt
+stabbing - napad z nożem
+suspect - podejrzany
+suspicion - podejrzenie
+to take bribes - brać łapówki
+theft - kradzież
+thief - złodziej
+thieving - złodziejstwo
+underworld - półświatek
+vandal - wandal
+vandalism - wandalizm
+to vandalize - dewastować; zdewastować
+victim - ofiara
+violence - przemoc
+accusation - oskarżenie
+accused - oskarżony
+to acquit - uniewinniać; uniewinnić
+acquittal - uniewinnienie
+administrative court - sąd administracyjny
+appeal - apelacja; odwołanie
+to appeal - złożyć apelację
+assessor - ławnik
+attorney - pełnomocnik
+authority of the court - powaga sądu
+bail - kaucja
+blame - winna
+blameless - niewinny
+capital punishment - kara śmierci
+civil court - sąd cywilny
+compromise in a court - ugoda sądowa
+conciliatory court - sąd pojednawczy; sąd polubowny
+to confess oneself guilty - przyznać się do winy
+to convict - skazać
+counsellor - mecenas
+court action - postępowanie sądowe
+court executor - komornik sądowy
+court of appeal - sąd apelacyjny
+court-appointed curator - kurator sądowy
+courtroom - sala rozpraw
+criminal court - sąd karny
+decree absolute - prawomocne orzeczenie sądu
+defence - obrona
+defendant - podsądny
+due lack of evidence - z braku dowodów
+fine - grzywna
+gavel - młotek (sędziego)
+gown - toga
+guilt - wina
+house arrest - areszt domowy
+impeachment - postawienie w sta oskarżenia
+to impose a fine - nałożyć grzywnę
+injunction - nakaz sądowy
+innocence - niewinność
+instance - instancja
+judge - sędzia
+jury - ława przysięgłych
+just - sprawiedliwy
+justice - sprawiedliwość
+lawyer - prawnik
+letter of the law - litera prawa
+liability - odpowiedzialność
+life sentence - kara dożywocia
+miscarriage of justice - pomyłka sądowa
+mitigating circumstances - okoliczności łagodzące
+on appeal - przy sądzie wyższej instancji
+perjury - krzywoprzysięstwo
+plaintiff - powód (strona w sądzie)
+plea of guilty - przyznanie się do winy
+power of attorney - pełnomocnictwo
+president of the court - prezes sądu
+to prosecute - oskarżać
+prosecutor - oskarżyciel; prokurator
+to punish - ukarać
+punishment - kara
+the guilty one - winowajca
+to put sb under arrest - nałożyć areszt na kogoś
+to read out the verdict - odczytać wyrok
+to release on bail - zwolnić za kaucją
+remission - złagodzenie wyroku
+right of appeal - prawo do odwołania
+to sentence - skazać
+show trial - proces pokazowy
+sitting of a court - posiedzenie sądu
+smart claims court - sąd rozpatrujący drobne wykroczenia
+solicitor - adwokat
+to stand trial - stawać/stanąć przed sądem
+to sue - skarżyć; procesować się
+summons before a court - wezwanie na rozprawę sądową
+Supreme Court - Sąd Najwyższy
+suspended jail sentence - kara więzienia w zawieszeniu
+test case - precedens sądowy
+to be behind bars - siedzieć za kratkami
+cell - cela
+convicted - skazaniec
+death row - cela śmierci
+electric chair - krzesło elektryczne
+escape - ucieczka
+to escape - uciec
+escaper - uciekinier; zbieg
+to execute - dokonać egzekucji
+execution - egzekucja
+false inprisonment - bezprawne pozbawienie wolności
+fellow prisoners - współwięźniowie
+firing squad - pluton egzekucyjny
+fugitive - uciekinier; zbieg
+gaol - więzienie
+gas chamber - komora gazowa
+to get behind bars - powędrować za kratki
+getaway - ucieczka
+to go to prison - iść do więzienia; pójść do więzienia
+guard - strażnik; wartownik
+inescapable prison - więzienie, z którego nie da się uciec
+jail - więzienie
+penal system - system penitencjarny
+prison - więzienie
+prison camp - kolonia karna
+prison doctor - lekarz więzienny
+prison warden - strażnik więzienny
+prisoner - więzień
+to release from prison - zwolnić z więzienia
+sentry - wartownik
+separate cell - izolatka
+to serve sentence - odsiadywać wyrok
+admiral - admirał
+air force - lotnictwo
+army - armia
+artillery - artyleria
+barracks - koszary
+base - baza
+battalion - batalion
+bomb - bomba
+bomber plane - bombowiec
+brigade - brygada
+cadet - podchorąży
+captain - kapitan
+cavalry - kawaleria
+checkpoint - punkt kontrolny
+colonel - pułkownik
+command - rozkaz
+company - kompania
+conscript - poborowy
+conscription - pobór
+corporal - kapral
+cruiser - krążownik
+to desert - dezerterować; zdezerterować
+deserter - dezerter
+desertion - dezercja
+discipline - dyscyplina
+division - dywizja
+fallout shelter - schron przeciwatomowy
+field artillery - artyleria polowa
+field courtmartial - sąd polowy
+field dress - mundur polowy
+field firing range - strzelnica
+field officer - starszy oficer
+field training exercise - ćwiczenia poligonowe
+infantry - piechota
+infantryman - piechur
+lieutenant - porucznik
+major - major
+marines - piechota morska
+missile base - baza rakietowa
+navy - marynarka wojenna
+officer - oficer
+order - rozkaz
+private - szeregowy
+range - poligon
+recruitment board - komisja poborowa
+regiment - pułk
+reservist - rezerwista
+scout - zwiadowca
+sergeant - sierżant
+sniper - snajper
+soldier - żołnierz
+squadron - szwadron
+the arms race - wyścig zbrojeń
+unit - jednostka
+warrant officer - chorąży
+well-trained - dobrze wyszkolony
+a spent bullet - wystrzelony pocisk
+act of aggression - akt agresji
+aggressor - agresor
+alarm - alarm
+alliance - sojusz
+ally - sojusznik
+annexation - aneksja; zajęcie
+to arm - uzbroić
+armistice - zawieszenie broni
+attack - atak
+bang! bang! - pif-paf!
+barrage - ogień zaporowy
+barricade - barykada
+battle - bitwa
+bloodbath - rzeź
+bloodshed - rozlew krwi
+to bomb - bombardować
+camouflage - kamuflaż
+camp - obóz
+to capitulate - kapitulować; skapitulować
+capitulation - kapitulacja
+captive - jeniec
+captivity - niewola
+charge - natarcie
+civilian - cywil; cywilny
+comradeship of war - braterstwo broni
+conflict - konflikt
+counter-attack - kontratak
+counter-offensive - kontrofensywa
+dead - martwy
+defeat - klęska; porażka
+defence - obrona
+to destroy - zniszczyć
+destruction - zniszczenie
+to disarm - rozbroić
+diversion - dywersja
+to drop a bomb - zrzucić bombę
+enemy - wróg
+to fight - walczyć
+front line - linia frontu
+glory - chwała
+guerilla - partyzantka
+invasion - inwazja
+to kill - zabić
+losses - straty
+negotiations - negocjacje
+offensive - ofensywa
+pitched battle - zażarty bój
+reconnaissance - rozpoznanie; rekonesans
+to regroup - przegrupować
+reinforcements - posiłki (dodatkowe jednostki)
+resistance - ruch oporu
+sabotage - sabotaż
+scorched earth policy - taktyka spalonej ziemi
+shot - strzał
+strategy - strategia
+street battles - walki uliczne
+to surrender - poddać się
+surrounded - otoczony
+tactical - taktyczny
+tactics - taktyka
+trench - okop
+trench warfare - wojna okopowa
+war - wojna
+war on attrition - wojna na wyczerpanie
+to withdrawn - wycofywać (się)
+a growing threat - rosnące zagrożenie
+al-Qaeda cell - komórka Al-Kaidy
+attacker - zamachowiec
+blast - wybuch
+bomb - bomba
+bomb attack - zamach bombowy
+car-bomb - samochód-pułapka
+to detonate - zdetonować
+hijacker - porywacz; kidnaper
+to hijack - porwać; uprowadzić
+home-made explosive - ładunek wybuchowy domowej roboty
+hostage - zakładnik
+hostages were freed - zakładnicy zostali odbici
+in retaliation for... - w odwecie za...
+piracy - piractwo
+retaliate - brać odwet; wziąć odwet
+retaliatory - odwetowy
+roadside bomb - bomba podłożona przy drodze
+to shoot indiscriminately - strzelać na oślep
+suicide bomber - zamachowiec-samobójca
+terror - terror
+terrorist act - akt terroru
+terrorist attack - atak terrorystyczny; zamach terrorystyczny
+terrorist organisation - organizacja terrorystyczna
+the al-Qaeda-linked group - grupa powiązana z AlKaidą
+ammunition - amunicja
+armo(u)red car - pojazd opancerzony
+armour - pancerz
+axe - topór
+bayonet - bagnet
+cannon - działo
+flamethrower - miotacz ognia
+grenade - granat
+grenade launcher - granatnik
+handgun - pistolet
+howitzer - haubica
+knife - nóż
+knuckle-duster - kastet
+launcher - wyrzutnia
+lethal weapon - zabójcza broń
+missile - rakieta
+missile launcher - wyrzutnia rakiet
+mortar - moździerz
+neutron bomb - bomba neutronowa
+nuclear weapon - broń jądrowa
+revolver - rewolwer
+rifle - karabin
+shell - pocisk
+silencer - tłumik
+submarine - łódź podwodna
+tank - czołg
+tankette - tankietka
+torpedo - torpeda
+warhead - głowica
+weapon - broń
+accused of spying - oskarżony o szpiegostwo
+agent - agent
+to betray - zdradzać
+betrayal - zdrada
+betrayer - zdrajca
+codename - kryptonim
+to collect secret data - zbierać tajne dane
+double agent - podwójny agent
+espionage - szpiegostwo
+espionage ring - siatka szpiegowska
+to ferret - wyszperać
+influence - wpływ
+intelligence agency - wywiad
+intrigue - intryga
+military intelligence - wywiad wojskowy
+national security - bezpieczeństwo narodowe
+network of spies - siatka szpiegowska
+operation - operacja
+operative - agent
+pass information - przekazywać informacje
+plot - spisek
+secret - tajemnica
+secretly-taped - potajemnie nagrany
+sleeper agent - śpioch; uśpiony agent
+spy - szpieg
+to spy - szpiegować
+spy ring - siatka szpiegowska
+spy scandal - skandal szpiegowski
+spy suspect - podejrzany o szpiegostwo
+spy swap - wymiana szpiegów
+top-secret - ściśle tajny; ściśle tajne
+traitor - zdrajca
+traitorous - zdradziecki
+to uncover - demaskować; zdemaskować
+undercover agent - tajny agent
+air accident - wypadek lotniczy; katastrofa lotnicza
+air crash - katastrofa lotnicza
+black box - czarna skrzynka
+blanket - koc
+caesium - cez
+carnage - rzeź; masakra
+catastrophe - katastrofa
+Chernobyl - Czarnobyl
+contaminated - skażony
+contamination - skażenie
+crash site - miejsce katastrofy
+crisis centre - centrum kryzysowe
+debris - szczątki
+derailment - wykolejenie się
+disaster - katastrofa
+emergency landing - lądowanie awaryjne
+fallout - opad radioaktywny
+famine - głód; klęska głodu
+flight information recorder - czarna skrzynka
+head-on rail collision - zderzenie czołowe
+in thick fog - w gęstej mgle
+international aid - pomoc międzynarodowa
+no-one had survived - nikt nie przeżył
+nuclear plan - elektrownia atomowa
+overcrowded hospitals - przepełnione szpitale
+passenger list - lista pasażerów
+pilot error - błąd pilota
+plutonium - pluton
+radiation - promieniowanie
+radiation measurement - pomiary promieniowania
+radiation sickness - choroba popromienna
+radioactive cloud - chmura radioaktywna
+radioactive iodine - jod radioaktywny
+radioactive steam - para radioaktywna
+rail disaster - katastrofa kolejowa
+reactor - reaktor
+rescue operation - operacja ratunkowa
+rescuer - ratownik
+slightly injured - lekko ranny
+strontium - stront
+surivor - ocalały
+tent - namiot
+train accident - wypadek kolejowy
+train crash - katastrofa kolejowa
+train disaster - katastrofa kolejowa
+unanticipated - niespodziewany; nieoczekiwany
+unguarded level crossing - niestrzeżony przejazd kolejowy
+uranium - uran
+without warning - bez ostrzeżenia
+wreckage - wrak; szczątki
+a plume of smoke - smuga dymu
+ablaze - w płomieniach; w ogniu
+acrid smoke - gryzący dym
+aftershocks - wstrząsy wtórne
+arson - podpalenie
+arson incident - podpalenie
+arsonist - podpalacz
+ash - popiół
+to burst into flames - stanąć w płomieniach
+charred - nadpalony; osmalony
+to combat the flames - walczyć z płomieniami
+to contain the fire - powstrzymać ogień; opanować ogień
+crater - krater
+to dalm down a fire - tłumić ogień
+dam - tama; zapora
+dam breach - pęknięcie tamy
+damage list - lista zniszczeń
+debris - rumowisko; gruzy
+deluge - potop
+to douse - gasić
+downpour - ulewa
+dyke; dike - grobla; wał
+epicenter - epicentrum
+eruption - erupcja
+to extinguish - gasić
+factory fire - pożar fabryki
+fire drill - ćwiczenia przeciwpożarowe
+fire engine - wóz strażacki
+fire exit - wyjście awaryjne; wyjście pożarowe
+fire extinguisher - gaśnica
+fire hose - wąż strażacki; wąż pożarniczy
+fire sprinker - zraszacz; spryskiwacz
+fireball - kula ognia
+firefighter - strażak
+flammable - palny; łatwopalny
+flood alert - alarm powodziowy
+flood crest - czoło fali powodziowej
+flood warning - ostrzeżenie przed powodzią
+flood-ravaged - zniszczony przez powódź
+flooded river - wezbrana rzeka
+gas - gaz
+hydrant - hydrant
+to ignite - zapalić się
+ladder - drabina
+landslide - lawina błotna; osunięcie się ziemi
+landslip - lawina błotna; osunięcie się ziemi
+lava - lawa
+massive earthquake - potężne trzęsienie ziemi
+to overflow - przelać się
+pile sandbag - układać worki z piaskiem
+plate movement - ruch płyty (tektonicznej)
+powerful earthquake - silne trzęsienie ziemi
+rainstorm - ulewa
+Richter scale - skala Richtera
+sandbag - worek z piaskiem
+seismic activity - aktywność sejsmiczna
+seismic wave - fala sejsmiczna
+seismologist - sejsmolog
+seismometer - sejsmograf
+shake - wstrząs
+smoke - dym
+smoke billows - kłęby dymu
+smouldering - tlący się
+spark - iskra
+tectonic plate - płyta tektoniczna
+tremor - wstrząs
+volcanic rock - skała wulkaniczna
+volcano - wulkan
+volcano spews ash - wulkan wyrzuca popiół
+volcanologist - wulkanolog
+wreaths of smoke - kłęby dymu

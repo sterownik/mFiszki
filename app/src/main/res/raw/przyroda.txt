@@ -1,0 +1,695 @@
+acid - kwas
+acid rain - kwaśny deszcz
+ammonia - amoniak
+asbestos - azbest
+bio-mass - biomasa
+chemicals - chemikalia
+chemistry - chemia
+chimney - komin
+contaminated - skażony
+contamination - skażenie
+devastation - dewastacja
+dirty - brudny
+dump - hałda
+ecological - ekologiczny
+ecological disaster - katastrofa ekologiczna
+ecologist - ekolog
+ecology - ekologia
+environment - środowisko
+filter - filtr
+forest destruction - niszczenie lasów
+fuel - paliwo
+garbage - śmieci
+gas - gaz
+global warming - globalne ocieplenie
+herbicide - herbicyd
+industry - przemysł
+lead - ołów
+mercury - rtęć
+nature - przyroda
+oil - olej
+ozone hole - dziura ozonowa
+ozone layer - warstwa ozonowa
+pest - szkodnik
+pesticide - pestycyd
+pipeline - rurociąg
+plastic - plastik
+poison - trucizna
+poisonous - trujący
+polluted - zanieczyszczony
+pollution - zanieczyszczenie
+to protect - ochraniać; chronić
+protected - chroniony
+protected area - obszar chroniony
+radioactive - radioaktywny; promieniotwórczy
+rain forest - las deszczowy; las tropikalny
+to save - ratować
+sewage - ścieki
+sewage system - kanalizacja
+smoke - dym
+soil - gleba
+solution - rozwiązanie
+soot - sadza
+synthetic - sztuczny
+toxic - toksyczny
+treatment plant - oczyszczalnia
+waste - odpady
+archipelago - archipelag
+bank - brzeg
+beach - plaża
+canal - kanał
+canyon - kanion
+cape - przylądek
+cave - jaskinia
+coast - wybrzeże
+coral reef - rafa koralowa
+desert - pustynia
+dune - wydma
+estuary - ujście
+field - pole
+forest - las
+glacier - lodowiec
+grove - lasek; gaj
+gulf - zatoka
+heath - wrzosowisko
+high tide - przypływ
+hill - wzgórze
+iceberg - lodowiec
+island - wyspa
+jungle - dżungla
+lake - jezioro
+low tide - odpływ
+mountain - góra
+ocean - ocean
+peak - szczyt
+peninsula - półwysep
+picturesque - malowniczy
+pool - basen
+port - port
+river - rzeka
+riverside - nabrzeże
+rock - skała
+sand - piasek
+sandy - piaszczysty
+sea - morze
+steppe - step
+strait - cieśnina
+thick forest - gęsty las
+tides - przypływ i odpływ; pływy
+tributary - dopływ
+valley - dolina
+volcano - wulkan
+waterfall - wodospad
+blizzard - zawieja
+to blow - wiać
+climate - klimat
+cloud - chmura
+cloudless - bezchmurny
+drizzle - mżawka
+dry - suchy
+fog - mgła
+foggy - mglisty
+frost - mróz
+frosty - mroźny
+glazed frost - gołoledź
+gust of wind - poryw wiatru
+gusty - porywisty
+hail - grad
+heat - gorąco
+heat wave - fala upałów
+heavy rain - ulewa
+hot - gorący
+ice - lód
+icy - lodowy; lodowaty
+it's raining cats and dogs - leje jak z cebra
+low - niż
+meteorologist - meteorolog
+rain - deszcz
+rainbow - tęcza
+sandstorm - burza piaskowa
+shade - cień
+sky - niebo
+snow - śnieg
+snow drift - zaspa
+snow storm - śnieżyca
+snowy - śnieżny
+sticky - parny
+storm - burza
+sultriness - duchota
+sun - słońce
+sunny - słoneczny
+temperature - temperatura
+thaw - odwilż
+thermometer - termometr
+thunderbolt - piorun
+thunderstorm - burza z piorunami
+to measure - mierzyć
+umbrella - parasol
+warm - ciepło
+weather - pogoda
+weather forecast - prognoza pogody
+wet - mokry
+wind - wiatr
+agriculture - rolnictwo
+barn - stodoła
+beehive - ul
+cattle - bydło
+combine - kombajn
+cowshed - obora
+crop failure - nieurodzaj
+to cultivate - uprawiać
+enclosure - wybieg
+farm - farma
+farmer - rolnik
+fertile - żyzny; urodzajny
+to fertilize - nawozić
+field - pole
+grain - ziarno
+greenhouse - szklarnia
+to grow - uprawiać
+harvest - żniwa
+hay - siano
+haystack - stóg siana
+hen house - kurnik
+hen - kura
+livestock - trzoda chlewna
+manger - koryto
+meadow - łąka
+to milk a cow - doić krowę
+to mow - kosić
+orchard - sad owocowy
+pasture - pastwisko
+pesticide - pestycyd
+pigsty - chlew
+plant - roślina
+plantation - plantacja
+plough - pług
+to plough - orać
+ranch - ranczo
+shepherd - pasterz
+silo - silos
+soil - gleba; ziemia
+stable - stajnia
+straw - słoma
+tractor - traktor
+agate - agat
+almandine - almandyn
+alunite - ałunit
+amethyst - ametyst
+andalusite - andaluzyt
+apatite - apatyt
+aquamarine - akwamaryn
+baryte - baryt
+bronzite - bronzyt
+calcite - kalcyt
+chalcedony - chalcedon
+chrysocolla - chryzokola
+chrysoprase - chryzopraz
+chrysotile - chryzotyl
+cleavage - łupliwość
+cobaltite - kobaltyn
+crystal system - układ krystalograficzny
+diamond - diament
+diopside - diopsyd
+fluorite - fluoryt
+forsterite - forsteryt
+fracture - przełam
+graphite - grafit
+gypsum - gips
+hardness - twardość
+jadeite - jadeit
+kyanite - kyanit
+lustre - połysk
+mineral - minerał
+mineralogy - mineralogia
+molybdenite - molibdenit
+onyx - onyks
+opal - opal
+orthoclase - ortoklaz
+pistacite - pistacyt
+potassium alum - ałun potasowy
+pyrite - piryt
+pyroxene - piroksen
+quartz - kwarc
+silicate - krzemian
+streak - rysa
+talc - talk
+titanite - tytanit
+topaz - topaz
+vesuvianite - wezuwian
+wolframite - wolframit
+zircon - cyrkon
+anteater - mrówkojad
+antelope - antylopa
+antilope - antylopa
+armadillo - pancernik
+baboon - pawian
+badger - borsuk
+bat - nietoperz
+bear - niedźwiedź
+beaver - bóbr
+bison - bizon
+brown bear - niedźwiedź brunatny
+buffalo - bawół
+camel - wielbłąd
+caracal - karakal
+cat - kot
+chamois - kozica
+cheetah - gepard
+chimpanzee - szympans
+cougar - puma; kuguar
+cow - krowa
+cow elephant - słonica
+coypu - nutria
+deer - jeleń; sarna
+dingo - dingo
+dog - pies
+dromedary - dromader
+elephant - słoń
+elk - łoś
+European hare - zając szarak
+European wildcat - żbik europejski
+fallow dear - daniel
+field mouse - mysz polna
+forest dormhouse - koszatka
+fox - lis
+fur - futro
+gibbon - gibon
+giraffe - żyrafa
+goat - koza
+gopher - suseł
+grizzly bear - grizli
+groundhog - świstak
+guinea pig - świnka morska
+hamster - chomik
+hedgehog - jeż
+hippopotamus - hipopotam
+hyena - hiena
+kangaroo - kangur
+koala - koala
+leopard - lampart
+lion - lew
+lion cub - lwiątko
+lioness - lwica
+llama - lama
+lycaon - likaon
+lynx - ryś
+macaque - makak
+mammal - ssak
+mandrill - mandryl
+marten - kuna
+mole - kret
+monkey - małpa
+mouflon - muflon
+mountain hare - zając bielak
+mouse - mysz
+muskrat - piżmak
+ocelot - ocelot
+otter - wydra
+ox - wół
+patas monkey - koczkodan
+peccari - pekari
+pig - świnia
+platypus - dziobak
+polar bear - niedźwiedź polarny
+polecat - tchórz
+Przewalski's horse - koń Przewalskiego
+rabbit - królik
+raccoon - szop
+raccoon dog - jenot
+rat - szczur
+rattle - szczur
+reindeer - renifer
+rhinoceros - nosorożec
+rodent - gryzoń
+sable - soból
+seal - foka
+sheep - owca
+skunk - skunks
+squirrel - wiewiórka
+stoat - gronostaj
+tapir - tapir
+Tasmanian devil - diabeł tasmański
+tiger - tygrys
+weasel - łasica
+wild boar - dzik
+wolf - wilk
+wolverine - rosomak
+wombat - wombat
+yak - jak
+zebra - zebra
+albatross - albatros
+barn owl - płomykówka
+beak - dziób
+bearded vulture - orłosęp
+bird - ptak
+black grouse - cietrzew
+black kite - kania czarna
+black stork - bocian czarny
+black-throated loon - nur czarnoszyi
+blackbird - kos
+booted eagle - orzełek włochaty
+bullfinch - gil
+bustard - drop
+buzzard - myszołów
+chaffinch - zięba
+condor - kondor
+cormorant - kormoran
+crane - żuraw
+crow - wrona
+cuckoo - kukułka
+curlew - kulik
+cygnet - młody łabędź
+duck - kaczka
+eagle - orzeł
+emu - emu
+falcon - sokół
+feather - pióro
+flamingo - flaming
+flight feather - lotka
+garganey - cyranka
+golden oriole - wilga
+goose - gęś
+grebe - perkoz
+grey patridge - kuropatwa
+gull - mewa
+hatch - lęg
+hawk - jastrząb
+heron - czapla
+hoopoe - dudek
+house martin - jaskółka oknówka
+humming bird - koliber
+ibis - ibis
+jackdaw - kawka
+kestrel - pustułka
+kingfisher - zimorodek
+kinglet - mysikrólik
+knot - biegus
+lapwing - czapla
+lark - skowronek
+lesser kestrel - pustułeczka
+little auk - alczyk
+little greebe - perkozek
+magpie - sroka
+mallard - kaczka krzyżówka
+mandarin duck - mandarynka
+merganser - nurogęś
+nest - gniazdo
+nestling - pisklę
+nightingale - słowik
+northern gannet - głuptak
+osprey - rybołów
+owl - sowa
+parrot - papuga
+pelican - pelikan
+pheasant - bażant
+pigeon - gołąb
+plumage - upierzenie
+quail - przepiórka
+raven - kruk
+razorbill - alka
+red-throated loon - nur rdzawoszyi
+ring-necked duck - czerniczka
+rook - gawron
+saker falcon - raróg
+shelduck - ohar
+skylark - skowronek
+sparrow - wróbel
+spoonbill - warzęcha
+starling - szpak
+stork - bocian
+swallow - jaskółka
+swan - łabędź
+thrush - drozd
+toucan - tukan
+vulture - sęp
+wing - skrzydło
+woodpecker - dzięcioł
+acorn - żołądź
+ash - jesion
+aspen - osika
+bald cypress - cypryśnik błotny
+bamboo - bambus
+banana tree - bananowiec
+bark - kora
+beech - buk
+birch - brzoza
+black alder - olsza czarna
+black pine - sosna czarna
+black poplar - topola czarna
+black spruce - świerk czarny
+branch - gałąź
+catkin - kotka; bazia
+cedar - cedr
+chestnut tree - kasztanowiec
+cone - szyszka
+coniferous forest - las iglasty
+crown - korona
+downy birch - brzoza omszona
+dwarf birch - brzoza karłowata
+dwarf pine - sosna karłowa
+elm - wiąz
+fir - jodła
+goat willow - iwa
+green alder - olsza zielona
+grey alder - olsza szara
+grey willow - wierzba szara; łoza
+hawthorn - głóg
+hornbeam - grab
+larch - modrzew
+leaf - liść
+leafy - pokryty liśćmi
+lime tree - lipa
+lodgepole pine - sosna wydmowa
+maple - klon
+maritime pine - sosna nadmorska
+mountain pine - kosodrzewina
+oak - dąb
+ornamental tree - drzewko ozdobne
+palm tree - palma
+pine - sosna
+redwood - sekwoja
+resin - żywica
+root - korzeń
+sapling - drzewko
+sorbus - jarząb
+sprig - gałązka
+spruce - świerk
+staghorn sumac - sumak odurzający
+tree - drzewo
+trunk - pień
+twig - gałązka
+white poplar - topola biała
+willow - wierzba
+wood - drewno
+yew - cis
+annual plant - roślina jednoroczna
+aster - aster
+blades of grass - źdźbła trawy
+blooming - kwitnący
+to blossom - kwitnąć; rozkwitać
+bouquet - bukiet
+bud - pąk; pączek
+burdock - łopian
+bush - krzew
+cactus - kaktus
+cane - trzcina
+carnation - goździk
+clover - koniczyna
+cloverleaf - liść koniczyny
+cockle - kąkol
+Colorado beetle - stonka ziemniaczana
+cornflower - chaber bławatek
+crocus - krokus
+cyclamen - fiołek alpejski
+daffodil - żonkil
+daisy - stokrotka
+dandelion - mlecz
+elder - dziki bez
+euphorbia - wilczomlecz
+fern - paproć
+floriculture - uprawa kwiatów
+flower - kwiat
+flower bed - klomb
+forget-me-not - niezapominajka
+four-leaf clover - czterolistna koniczyna
+freesia - frezja
+fuchsie - fuksja
+geranium - pelargonia
+grass - trawa
+to grow flowers - hodować kwiaty
+herb - zioło
+herbaceous plant - roślina zielna
+hydrangea - hortensja
+iris - irys; kosaciec
+ivy - bluszcz
+jasmine - jaśmin
+lavender - lawenda
+lilac - bez
+lily - lilia
+lily of the valley - konwalia
+mallow - malwa
+marigold - nagietek
+medicinal plant - roślina lecznicza
+moss - mech
+orchid - orchidea; storczyk
+ovary - zalążnia
+pasqueflower - sasanka
+to pick flowers - zrywać kwiaty
+pink - goździk
+plant - roślina
+poppy - mak
+reed - trzcina
+rhizome - kłącze
+rhododendron - różanecznik; azalia
+rose - róża
+saffron - szafran
+sage - szałwia
+shoot - pęd
+shrub - krzew
+sow - siać
+stamen - pręcik
+stamper - słupek
+stem - łodyga
+stipule - przylistek
+sugar cane - trzcina cukrowa
+sunflower - słonecznik
+thistle - oset
+tulip - tulipan
+valerian - kozłek lekarski
+violet - fiołek
+waterlily - lilia wodna
+weed - chwast
+to weed - pielić
+allis shad - aloza
+asp - boleń
+barbel - brzana
+bleak - ukleja
+bream - leszcz
+burbot - miętus
+carp - karp
+catfish - sum
+cod - dorsz
+common dace - jelec europejski
+crucian - karaś
+eel - węgorz
+European chub - kleń
+fish - ryba
+fishbone - ość
+fishy - rybi
+flounder - flądra
+gills - skrzela
+goldfish - złota rybka
+grass carp - amur biały
+grayling - lipień
+huchen - głowacica
+ide - jaź
+lamprey - minóg
+lavaret - sieja
+mackerel - makrela
+perch - okoń
+pike - szczupak
+pike perch - sandacz
+pollock - mintaj
+roach - płoć
+roe - ikra
+ruffe - jazgarz
+salmon - łosoś
+scale - łuska
+shark - rekin
+shoal - ławica
+Siberian sturgeon - jesiotr syberyjski
+spawning - tarło
+sprat - szprotka
+sturgeon - jesiotr
+tench - lin
+trout - pstrąg
+twait shad - parposz
+Aesculapian snake - wąż Eskulapa
+alligator - aligator
+basilisk - bazyliszek
+black iguana - legwan czarny
+black mamba - mamba czarna
+boa constrictor - boa dusiciel
+caiman - kajman
+Caspian turtle - żółw kaspijski
+chameleon - kameleon
+common European viper - żmija zygzakowata
+corn snake - wąż zbożowy
+crocodile - krokodyl
+egg-eating snake - jajożer
+Egyptian cobra - kobra egipska
+frill-necked lizard - agama kołnierzasta
+Gaboon viper - żmija gabońska
+gecko - gekon
+grass snake - zaskroniec
+iguana - iguana
+jararaca - żararaka
+Komodo dragon - waran z Komodo
+lace monitor - waran kolorowy
+leopard gecko - gekon tygrysi
+lizard - jaszczurka
+Nile crocodile - krokodyl nilowy
+oviparity - jajorodność
+pond turtle - żółw błotny
+rattle-snake - grzechotnik
+reptile - gad
+royal python - pyton królewski
+Saharan horned viper - żmija rogata
+saltwater crocodile - krokodyl różańcowy
+sand lizard - jaszczurka zwinka
+serum - surowica
+short-tailed monitor - waran karłowaty
+skink - scynk
+slow-worm - padalec
+smooth snake - gniewosz plamisty
+snake - wąż
+softshell turtle - żółwiak afrykański
+spitting cobra - kobra plująca
+taipan - tajpan
+thorny dragon - moloch straszliwy
+tuatara - hatteria
+venom - jad
+venomous - jadowity
+viper - żmija
+vivipary - żyworodność
+western rat snake - wąż smugowy
+wood turtle - żółw leśny
+abdomen - odwłok
+ant - mrówka
+ant hill - mrowisko
+aphid - mszyca
+bedbug - pluskwa
+bee - pszczoła
+beetle - chrząszcz
+bumblebee - trzmiel
+butterfly - motyl
+caterpillar - gąsienica
+cicada - cykada
+cockchafer - chrabąszcz
+cockroach - karaluch
+cocoon - kokon
+dragonfly - ważka
+flea - pchła
+fly - mucha
+gadfly - bąk
+grasshopper - pasikonik
+hornet - szerszeń
+horsefly - giez; końska mucha
+insect - owad
+insect bite - ukąszenie owada
+ladybeetle - biedronka
+ladybird - biedronka
+larva - larwa
+locust - szarańcza
+louse - wesz
+maggot - czerw
+mosquito - komar
+moth - ćma
+Pharaoh ant - mrówka Faraona
+praying mantis - modliszka
+pupa - poczwarka
+sting - żądło
+thorax - tułów
+wasp - osa
+white grub - pędrak

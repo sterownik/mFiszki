@@ -1,0 +1,287 @@
+access - dostęp
+backup - kopia zapasowa
+browser - przeglądarka
+bug - bug; błąd w programie
+compression - kompresja
+computer game - gra komputerowa
+computer - komputer
+configuration - konfiguracja
+cursor - kursor
+data processing - przetwarzanie danych
+data transfer - transmisja danych
+to encrypt - szyfrować
+to enter data - wprowadzić dane
+file management - zarządzanie plikami
+file - plik
+hard disk - dysk twardy
+ink-jet printer - drukarka atramentowa
+input - wejście
+interface - interfejs
+keyboard - klawiatura
+laser printer - drukarka laserowa
+load - ładować
+memory expansion - rozszerzenie pamięci
+memory - pamięć
+microprocessor - mikroprocesor
+notebook - notebook; laptop
+operating system - system operacyjny
+optical scanner - skaner optyczny
+output - wyjście
+to power up - włączyć
+printer - drukarka
+program - program
+programmer - programista
+programming - programowanie
+save - zapisać
+to shut down - wyłączyć
+to update - aktualizować
+upgrade - aktualizacja
+voice recognition - rozpoznawanie głosu
+word processor - edytor tekstu
+workstation - stacja robocza
+to accelerate - przyspieszyć
+air conditioning - klimatyzacja
+axle - oś
+back door - tylne drzwi
+to blow the horn - zatrąbić
+body - karoseria
+brake - hamulec
+brake light - światła hamulcowe
+bumper - zderzak
+burst tyre - przebita opona
+car rental - wypożyczalnia samochodów
+car - samochód
+to change a tyre - wymienić oponę
+to change gear - zmieniać biegi
+clutch - sprzęgło
+crossroads - skrzyżowanie
+to drive - kierować; prowadzić
+driver - kierowca
+driving school - nauka jazdy
+front door - przednie drzwi
+gear - bieg
+gearbox - skrzynia biegów
+handbrake - hamulec ręczny
+horn - klakson
+indicator - kierunkowskaz
+limousine - limuzyna
+oil - olej
+to overtake - wyprzedzać
+park the car - zaparkować samochód
+parking light - światła mijania
+to reverse - cofać
+reverse - wsteczny
+road - droga
+roof - dach
+seat - siedzenie
+spare tyre - koło zapasowe
+steering wheel - kierownica
+SUV - samochód terenowy
+to turn left - skręcić w lewo
+to turn right - skręcić w prawo
+tyre - opona
+tyre pressure - ciśnienie w oponach
+wheel - koło
+windscreen - przednia szyba
+wing - błotnik
+alloy - stop (metalu)
+assemble - montować
+automation - automatyzacja
+brewery - browar
+brick-worker - cegielnia
+brown coal - węgiel brunatny
+ceramic - ceramika; ceramiczny
+coal - węgiel
+coal-basin - zagłębie węglowe
+coke - koks
+conductor - przewodnik
+copper - miedź
+corrosion - korozja
+factory - fabryka
+foundry - odlewnia
+glass - szkło; szklany
+hard coal - węgiel kamienny
+industrial development - rozwój przemysłowy
+industrial - przemysłowy
+industry - przemysł
+iron ore - ruda żelaza
+laser - laser; laserowy
+machine - maszyna
+manufacturer - producent
+manufacturing - produkcja przemysłowa
+mass production - masowa produkcja
+material - materiał
+mechanization - mechanizacja
+metal - metal; metalowy
+to mine coal - wydobywać węgiel
+mine - kopalnia
+miner - górnik
+outdated - przestarzały
+plant - zakład
+to produce - produkować
+progress - postęp
+rolling-mill - walcowania
+rubber - guma
+semiconductor - półprzewodnik
+stainless steel - stal nierdzewna
+steel - stal
+steel-mill - huta szkła
+sugar-mill - cukrownia
+surface mine - kopalnia odkrywkowa
+technology - technologia
+tin - cyna
+waste tip - hałda
+wood - drewno
+wooden - drewniany
+bituminous coal - węgiel kamienny
+central heating - centralne ogrzewanie
+cooling tower - chłodnia kominowa
+electricity - energia elektryczna
+energy - energia
+fossil fuel - paliwo kopalne
+gas conflict - konflikt gazowy
+gas pipeline - gazociąg
+geothermal energy - energia geotermalna
+heat exchanger - wymiennik ciepła
+lignite - węgiel brunatny
+natural gas - gaz ziemny
+oil pipeline - ropociąg
+pipe - rura
+power station - elektrownia
+reactor - reaktor
+renewable energy - odnawialne źródła energii
+solar collector - kolektor słoneczny
+solar energy - energia słoneczna
+solar power plant - elektrownia słoneczna
+thermal energy - energia termiczna
+thermal power station - elektrownia cieplna
+transformer - transformator
+turbine - turbina
+wind farm - elektrownia wiatrowa
+windmill - wiatrak
+amplifier - wzmacniacz
+anode - anoda
+base - baza
+bipolar junction transistor - tranzystor bipolarny
+buzzer - brzęczyk
+capacitor - kondensator
+cathode - katoda
+collector - kolektor
+counter - licznik
+diode - dioda
+electron - elektron
+electronics - elektronika
+emmiter - emiter
+field-effect transistor - tranzystor polowy
+inductor - cewka indukcyjna
+integrated circuit - układ scalony
+jumper - zworka
+motion detector - czujnik ruchu
+resistor - rezystor
+semiconductor - półprzewodnik
+sensistor - sensystor
+thermistor - termistor
+thyristor - tyrystor
+transconductance - transkonduktancja
+transistor - tranzystor
+vacuum tube - lampa próżniowa
+varistor - warystor
+alternating current - prąd przemienny
+capacitance - pojemność elektryczna
+conductance - konduktancja
+Coulomb's law - prawo Coulomba
+current density - gęstość prądu
+current source - źródło prądu
+dielectric - dielektryk; izolator
+dipole - dipol
+direct current - prąd stały
+electric arc - łuk elektryczny
+electric charge - ładunek elektryczny
+electric current - prąd elektryczny
+electric field - pole elektryczne
+electric potential - potencjał elektryczny
+electrical conduction - przewodnictwo elektryczne
+electrical engineering - elektrotechnika
+electromagnetic radiation - promieniowanie elektromagnetyczne
+electrical network - obwód elektryczny
+impedance - impedancja
+inductance - indukcyjność
+Lorentz force - siła Lorentza
+magnetic field - pole magnetyczne
+magnetic field strength - natężenie pola magnetycznego
+magnetic flux - strumień indukcji magnetycznej
+magnetic moment - moment magnetyczny
+magnetism - magnetyzm
+Ohm's law - prawo Ohma
+permeability - przenikalność magnetyczna
+reactance - reaktancja
+resistance - rezystancja
+resistivity - rezystywność
+superconductivity - nadprzewodnictwo
+voltage drop - spadek napięcia
+voltage source - źródło napięcia
+architect - architekt
+architecture - architektura
+brick - 1. cegła 2. murowany
+to build - budować
+builder - budowniczy
+building inspection - inspekcja budowlana
+building lot - działka budowlana
+building site - budowa
+building site - plac budowy
+cement - cement
+concrete - beton
+to dig - kopać
+to drill - wiercić
+finishing - prace wykończeniowe
+to fit in the windows - wstawiać okna
+foam - pianka
+foundations - fundament(y)
+gravel - żwir
+grease - smar
+jerry-building - fuszerka budowlana
+lawless construction - samowola budowlana
+lime - wapno
+marble - marmur
+mortar - zaprawa
+nail - gwóźdź
+paint - farba
+partition wall - ścianka działowa
+plaster - tynk
+to plaster - tynkować
+to rebuild - przebudować
+reinforcement - zbrojenie
+to repair - remontować
+sand - piasek
+tar paper - papa
+tar - smoła
+tile - dachówka
+wall - ściana; mur
+wood - drewno
+air compressor - sprężarka
+axe - siekiera
+brush - pędzel
+bucket - wiadro
+crowbar - łom
+cutter - nóż monterski
+drill - wiertarka
+grinder - szlifierka
+hacking knife - nóż do tapet
+hammer - młotek
+hook - hak
+jack - podnośnik
+ladder - drabina
+paint-roller - wałek malarski
+pickaxe - kilof
+saw - piła
+spade - szpadel
+spanner - klucz /narzędzie/
+spirit level - poziomica
+square - kątownik
+screwdriver - śrubokręt
+tool - narzędzie
+trowel - kielnia
+vice - imadło
+welder - spawarka
+wheelbarrow - taczka
+wrench - klucz /narzędzie/

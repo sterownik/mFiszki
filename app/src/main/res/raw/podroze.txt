@@ -1,0 +1,280 @@
+single room - pokój jednoosobowy
+staff - personel
+to stay overnight - przenocować
+suite - apartament
+supplement - dopłata
+swimming pool - basen
+towel - ręcznik
+vacancy - wolny /pokój/
+arrival - przyjazd
+buffet car - wagon barowy
+by train - pociągiem
+cable railway - kolej linowa
+cable car - wagon kolei linowej
+car; carriage - wagon
+commuting train - pociąg podmiejski
+compartment - przedział
+delay - spóźnienie; opóźnienie
+departure - odjazd
+dining car - wagon restauracyjny
+direct - bezpośredni
+engine - lokomotywa
+engine driver - maszynista
+first class - pierwsza klasa
+freight train - pociąg towarowy
+passenger train - pociąg pasażerski
+platform - peron
+rail network - sieć kolejowa
+railway - kolej
+railway engine (BRIT) - lokomotywa
+railway junction - węzeł kolejowy
+railway station - dworzec kolejowy
+railwayman - kolejarz
+restaurant car - wagon restauracyjny
+return ticket - bilet powrotny
+rolling stock - tabor
+seat reservation - miejscówka
+second class - druga klasa
+single ticket - bilet w jedną stronę
+sleeping car - wagon sypialny
+slow train - pociąg osobowy
+ticket inspector - konduktor
+ticket office - kasa
+timetable - rozkład jazdy
+track - tor
+train - pociąg
+waiting-room - poczekalnia
+air traffic controller - kontroler ruchu lotniczego
+airplane; aircraft - samolot
+airport - lotnisko
+airspace - obszar powietrzny
+airway - trasa lotnicza
+aisle seat - miejsce przy przejściu
+arrival - przylot
+autopilot - autopilot
+aviation fuel - paliwo lotnicze
+boarding card - karta pokładowa
+carrier - przewoźnik
+charter - czarter
+co-pilot - drugi pilot
+deck - pokład
+departure - wylot
+domestic flight - lot krajowy
+emergency landing - lądowanie awaryjne
+excess luggage - nadbagaż
+flight - lot
+flight has been cancelled - lot został odwołany
+flight number - numer lotu
+flying hours - nalot (pilota)
+fuselage - kadłub samolotu
+hand luggage - bagaż podręczny
+hangar - hangar
+helicopter - helikopter
+intermediate landing - międzylądowanie
+international flight - lot międzynarodowy
+jet - odrzutowy
+jet plane - odrzutowiec
+landing - lądowanie
+low visibility - słaba widoczność
+luggage - bagaż
+oxygen mask - maska tlenowa
+pilot - pilot
+stopover - międzylądowanie
+tail - ogon
+take-off - start
+to abandon ship - opuszczać statek
+anchor - kotwica
+anchorage - miejsce zakotwiczenia
+at sea - na morzu
+barge - barka
+below deck - pod pokładem
+boat - łódź
+boatswain - bosman
+bottom - dno
+cabin - kajuta
+captain - kapitan
+castaway - rozbitek
+catamaran - katamaran
+coastguard - straż przybrzeżna
+coastline - linia brzegowa
+cruise - rejs
+deck hand - majtek
+depth - głębina
+dock - dok
+engine room - maszynownia
+ferry - prom
+flag - bandera
+gangway - trap
+to get a ship afloat - wyciągnąć statek na głębię
+to go up on deck - wyjść na pokład
+harbour - port
+harbour dues - opłaty portowe
+harbour master - komendant portu
+hovercraft - poduszkowiec
+hoverport - przystań dla poduszkowców
+island - wyspa
+launch - szalupa
+life jacket - kamizelka ratunkowa
+lighthouse - latarnia
+logbook - dziennik okrętowy
+main deck - pokład główny
+mast - maszt
+ocean - ocean
+piracy - piractwo
+pirate - pirat
+pleasure cruise - wycieczka statkiem
+port - port
+promenade deck - pokład spacerowy
+rope - lina
+rubber dinghy - ponton
+to run aground - osiadać na mieliźnie
+sail - żagiel
+sailboat - żaglówka
+sailor - marynarz
+sea - morze
+sea route - szlak morski
+seasick - choroba morska
+seaworthy - zdatny do żeglugi
+shallows - mielizna
+ship - okręt
+shipowner - armator
+shipping lane - szlak żeglugowy
+sickbay - szpital pokładowy
+steamship - parowiec
+stern - rufa
+tug - holownik
+approach road - droga dojazdowa
+beltway - obwodnica
+bend - skręt zakręt
+blind corner - zakręt z ograniczoną widocznością
+bridge - most
+bus lane - pas wydzielony dla autobusów
+bus shelter - wiata przystankowa
+car - samochód
+car accident - wypadek drogowy
+car rental - wynajem samochodów
+car rental - wypożyczalnia samochodów
+crossroads - skrzyżowanie
+curve - skręt zakręt
+de-icer - skrobaczka do lodu
+to declutch - wyłączać sprzęgło; wyłączyć sprzęgło
+defog (US) - odparować szybę
+defogger (US) - nadmuch
+dimmers (US) - światła mijania
+diversion - objazd
+divided highway (US) - droga dwupasmowa
+driver - kierowca
+exit ramp (US) - zjazd z autostrady
+to freewheel - jechać na wolnym biegu
+to fuel - paliwo
+to go into a skid - wpadać/wpaść w poślizg
+gridlock - korek; korki
+he was banned from driving - odebrano mu prawo jazdy
+head-on collision - zderzenie czołowe
+highway - autostrada
+hitchhiker - autostopowicz
+hitchhiking - autostop
+to honk the horn - trąbić; zatrąbić
+impassable - nieprzejezdny
+lorry - ciężarówka
+main road - droga główna
+major road - droga główna
+minor road - droga boczna
+motorway - autostrada
+no parking - zakaz parkowania
+one-way street - ulica jednokierunkowa
+parking meter - parkomat
+pavement - chodnik
+pedestrian - pieszy
+petrol station - stacja benzynowa
+pothole - wybój
+to refuel - tankować
+refuelling - tankowanie
+road map - mapa drogowa
+road safety - bezpieczeństwo ruchu drogowego
+road works - roboty drogowe
+roadblock - blokada drogi
+roadhog - zawalidroga
+roadway - jezdnia
+roundabout - rondo
+route map - mapa drogowa
+rush hour - godziny szczytu
+skid - poślizg
+street - ulica
+tailback - korek; zator
+traffic circle - rondo
+traffic island - wysepka
+traffic jam - korek
+traffic offence (BRIT) - wykroczenie drogowe
+traffic sign - znak drogowy
+traffic violation - wykroczenie drogowe
+to turn left - skręcić w lewo
+to turn right - skręcić w prawo
+verge - pobocze
+guest - gość
+hotel - hotel; hotelowy
+hotelier - hotelarz
+key - klucz
+laundry - pralnia
+linen - pościel
+luxury - luksus
+maid - pokojówka
+meal - posiłek
+motel - motel
+pension - pensjonat
+presidential suite - apartament prezydencki
+price - cena
+reception - recepcja
+receptionist - recepcjonista
+registration book - książka meldunkowa
+bathroom - łazienka
+bed - łóżko
+bed and breakfast - nocleg ze śniadaniem
+blanket - koc
+board - wyżywienie
+booking - rezerwacja
+cheap - tani
+check out - wymeldowanie się
+choice - wybór
+to confirm a booking - potwierdzić rezerwację
+deposit - zaliczka
+double room - pokój dwuosobowy
+equipment - wyposażenie
+expensive - drogi
+five-star hotel - hotel pięciogwiazdkowy
+guest - gość
+hotel - hotel hotelowy
+hotelier - hotelarz
+key - klucz
+laundry - pralnia
+linen - pościel
+luxury - luksus
+maid - pokojówka
+meal - posiłek
+motel - motel
+pension - pensjonat
+presidential suite - apartament prezydencki
+price - cena
+reception - recepcja
+receptionist - recepcjonista
+registration book - książka meldunkowa
+room - pokój
+sheet - prześcieradło
+itinerary - plan podróży
+landscape - krajobraz
+recreation - rekreacja
+routine customs check - rutynowa kontrola celna
+season - sezon
+seasonal - sezonowy
+sightseeing - zwiedzanie
+sightseeing tour - wycieczka krajoznawcza
+sightseer - zwiedzający
+souvenir - pamiątka
+sunbathing - opalanie
+suntan - opalenizna
+suntan lotion - emulsja do opalania
+suntan oil - olejek do opalania
+suntanned - opalony
+swimming trunks - kąpielówki
+tour leader - pilot wycieczki
+tourist - turysta

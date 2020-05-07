@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416024161281",
+    "firebase_url": "https://mfiszki-6a1f4.firebaseio.com",
+    "project_id": "mfiszki-6a1f4",
+    "storage_bucket": "mfiszki-6a1f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416024161281:android:877962d7d1c91de3b4e400",
+        "android_client_info": {
+          "package_name": "com.example.mfiszki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416024161281-0nk6oruc3c3o78r3ls6sbidpiua8m2c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mfiszki",
+            "certificate_hash": "e60414b9ab233365357de607ac2c51adc1777c70"
+          }
+        },
+        {
+          "client_id": "416024161281-72v0ie2k194n7mhadoksc88u0pitt0it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg0HloNSzVN_7380-lgq4I4qQYHmiS7j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416024161281-72v0ie2k194n7mhadoksc88u0pitt0it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

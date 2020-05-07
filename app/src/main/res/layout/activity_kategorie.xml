@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tlo"
+    tools:context=".kategorie">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:background="@drawable/kolo3"
+                    android:layout_weight=".5"
+                    android:padding="10dp">
+
+                    <ImageView
+                        android:id="@+id/img"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:scaleType="fitCenter"
+
+                        android:src="@drawable/bus" />
+
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight=".5"
+                    android:padding="5dp">
+
+                    <TextView
+                        android:id="@+id/txt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/source"
+                        android:text="tekst"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/txtzrobionych"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txt"
+
+                        android:fontFamily="@font/robotoreg"
+                        android:text="Nauczone słówka: " />
+
+                    <TextView
+                        android:id="@+id/txtlbzrobionych"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txt"
+
+                        android:layout_toRightOf="@id/txtzrobionych"
+                        android:fontFamily="@font/source"
+                        android:text="tekst"
+                        android:textColor="@color/przyciski3" />
+
+
+                    <TextView
+                        android:id="@+id/txtwszystkich"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txtlbzrobionych"
+
+                        android:fontFamily="@font/robotoreg"
+                        android:text="Wszystkie słówka: " />
+
+                    <TextView
+                        android:id="@+id/txtlbwszystkich"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txtlbzrobionych"
+
+                        android:layout_toRightOf="@id/txtwszystkich"
+                        android:fontFamily="@font/source"
+                        android:text="tekst"
+                        android:textColor="@color/przyciski2" />
+
+
+                    <ProgressBar
+                        android:id="@+id/osiagniecia"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:layout_below="@id/txtlbwszystkich"
+                        android:layout_marginTop="10dp"
+                        android:scaleY="3"
+                        android:theme="@style/progressBarBlue" />
+
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/wysokoscbtn"
+                android:orientation="horizontal">
+
+
+                <RelativeLayout
+                    android:id="@+id/codzienne2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle"
+                    android:clickable="true">
+
+                    <ImageButton
+                        android:id="@+id/codzienne"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:clickable="true"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+
+                        android:src="@drawable/codziennie"
+
+                        android:text="Życie codzienne" />
+
+                    <TextView
+                        android:id="@+id/codziennetxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/codzienne"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+
+                        android:gravity="center"
+                        android:text="Życie codzinne"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/codziennetxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkocodzienne"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekcodzienne"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkocodzienne"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/czlowiek2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/czlowiek"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/czlowiek"
+                        android:text="Człowiek" />
+
+                    <TextView
+                        android:id="@+id/czlowiektxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+
+                        android:layout_below="@id/czlowiek"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Człowiek"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/czlowiektxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkoczlowiek"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekczlowiek"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkoczlowiek"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/wysokoscbtn"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/emocje2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/emocje"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/emocje"
+                        android:text="Emocje" />
+
+                    <TextView
+                        android:id="@+id/emocjetxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+
+                        android:layout_below="@id/emocje"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Emocje"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/emocjetxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkoemocje"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekemocje"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkoemocje"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/zdrowie2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/zdrowie"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/zdrowie"
+                        android:text="Zdrowie" />
+
+                    <TextView
+                        android:id="@+id/zdrowietxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+
+                        android:layout_below="@id/zdrowie"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Zdrowie"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/zdrowietxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkozdrowie"
+
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekzdrowie"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkozdrowie"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/wysokoscbtn"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/kultura2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/kultura"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/kultura"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/kulturatxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/kultura"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Kultura"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/kulturatxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkokultura"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekkultura"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkokultura"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/nauka2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/nauka"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/nauka"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/naukatxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/nauka"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Nauka"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/naukatxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkonauka"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscsloweknauka"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkonauka"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/wysokoscbtn"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/cywilizacja2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/cywilizacja"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/cywilizacja"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/cywilizacjatxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/cywilizacja"
+
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Cywilizacja"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/cywilizacjatxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkocywilizacja"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekcywilizacja"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkocywilizacja"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/podrozowanie2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/podrozowanie"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/podrozowanie"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/podrozowanietxt"
+                        android:layout_width="match_parent"
+
+                        android:layout_height="30dp"
+                        android:layout_below="@id/podrozowanie"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Podróżowanie"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/podrozowanietxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkopodrozowanie"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekpodrozowanie"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkopodrozowanie"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/wysokoscbtn"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/technika2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/technika"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/technika"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/technikatxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/technika"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Technika"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/technikatxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkotechnika"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowektechnika"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkotechnika"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/biznes2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/biznes"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/biznes"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/biznestxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/biznes"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Biznes"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/biznestxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkobiznes"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekbiznes"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkobiznes"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/wysokoscbtn"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/bezpieczenstwo2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/bezpieczenstwo"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/bezpieczenstwo"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/bezpieczenstwotxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/bezpieczenstwo"
+
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Bezpieczeństwo"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/bezpieczenstwotxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkobezpieczenstwo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekbezpieczenstwo"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkobezpieczenstwo"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/sport2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/sport"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/sport"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/sportxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/sport"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Sport"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/sportxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkosport"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscsloweksport"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkosport"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/wysokoscbtn"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/przyroda2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/przyroda"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/przyroda"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/przyrodatxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/przyroda"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Przyroda"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/przyrodatxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkoprzyroda"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekprzyroda"
+                            android:layout_width="wrap_content"
+
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkoprzyroda"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/swiat2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/swiat"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/swiat"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/swiattxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+
+                        android:layout_below="@id/swiat"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Świat wokół nas"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/swiattxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkoswiat"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+
+                            android:text="14"
+
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekswiat"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkoswiat"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/wysokoscbtn"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/handel2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/handel"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="45dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/handel"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/handeltxt"
+
+                        android:layout_width="match_parent"
+
+                        android:layout_height="30dp"
+                        android:layout_below="@id/handel"
+                        android:layout_marginTop="-45dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Handel i usługi"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/handeltxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkohandel"
+                            android:layout_width="wrap_content"
+
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekhandel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkohandel"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/wolny2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_margin="4dp"
+                    android:layout_weight="0.5"
+                    android:background="@drawable/rectangle">
+
+                    <ImageButton
+                        android:id="@+id/wolny"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:adjustViewBounds="true"
+                        android:background="@color/tlo2"
+                        android:paddingBottom="40dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/wolny"
+                        android:textColor="@color/przyciski2" />
+
+                    <TextView
+                        android:id="@+id/wolnytxt"
+
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@id/wolny"
+                        android:layout_marginTop="-40dp"
+                        android:fontFamily="@font/source"
+                        android:gravity="center"
+                        android:text="Czas wolny"
+                        android:textColor="@color/przyciski2"
+                        android:textSize="14dp" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_below="@+id/wolnytxt"
+                        android:layout_marginTop="-10dp"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/slowkowolny"
+                            android:layout_width="wrap_content"
+
+                            android:layout_height="match_parent"
+                            android:fontFamily="@font/source"
+                            android:text="14"
+                            android:textColor="@color/przyciski3"
+                            android:textSize="14dp" />
+
+                        <TextView
+                            android:id="@+id/iloscslowekwolny"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_toRightOf="@id/slowkowolny"
+                            android:fontFamily="@font/source"
+                            android:text="/255"
+                            android:textColor="@color/tekstpytanie"
+                            android:textSize="14dp" />
+
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/logout"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:background="@drawable/rectangledwa"
+                android:text="Wyloguj się"
+                android:textColor="@color/tlo2" />
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

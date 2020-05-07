@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="tlo">#05668D</color>
+    <color name="tlo2">#03446B</color>
+    <color name="tekst">#00A896</color>
+    <color name="przyciski">#028090</color>
+    <color name="przyciski2">#02C39A</color>
+    <color name="przyciski3">#F0F3BD</color>
+    <color name="tekstpytanie">#435C52</color>
+
+</resources>

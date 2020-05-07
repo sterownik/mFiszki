@@ -1,0 +1,270 @@
+accumulated leave - niewykorzystany urlop
+boss - szef
+consultant - doradca
+day shift - dzienna zmiana
+earn - zarabiać
+employment contract - umowa o pracę
+full-time - na cały etat
+to get a day off - dostać dzień wolnego
+hard-work - ciężka praca
+job - praca
+jobless - bezrobotny
+minimum wage - płaca minimalna
+night shift - nocna zmiana
+occupation - zawód
+office worker - pracownik biurowy
+overtime - nadgodziny
+to overwork oneself - przepracować się
+part-time - na pół etatu
+promotion - awans
+recruitment - rekrutacja
+self employment - samozatrudnienie
+shift supervisor - kierownik zmiany
+strike - strajk; strajkować
+strike-breaker - łamistrajk
+to take a three-day leave - wziąć trzy dni wolnego
+the labour market - rynek pracy
+trade union - związek zawodowy
+unemployed - bezrobotny
+unemployment - bezrobocie
+unemployment benefit - zasiłek dla bezrobotnych
+unemployment rate - stopa bezrobocia
+unskilled worker - robotnik niewykwalifikowany
+vocation with pay - płatny urlop
+work - praca
+accounting currency - waluta rozliczeniowa
+accounting risk - ryzyko księgowe
+banknote, bill - banknot
+circulation - obieg
+coin - moneta; bilon
+commission-free - bez prowizji
+currency conversion - konwersja walutowa
+currency risk - ryzyko walutowe
+currency swap - swap walutowy
+currency - waluta
+currency zone - strefa walutowa
+denomination - denominacja
+devaluation - dewaluacja
+dollar - dolar
+eurozone - strefa euro
+exchange office - kantor
+exchange rate - kurs wymiany; kurs walutowy
+financial markets - rynki finansowe
+fixed exchange rate - stały kurs walutowy
+floating currency - płynny kurs walutowy
+foreign currency - waluta obca
+hard currency - twarda waluta
+heads - awers
+microprinting - mikrodruk
+mint - mennica
+monetary basket - koszyk walutowy
+pound - funt
+reserve currency - waluta rezerwowa
+ruble - rubel
+swap kroons for euros - wymienić korony estońskie na euro
+Swiss franc - frank szwajcarski
+transaction risk - ryzyko transakcyjne
+watermark - znak wodny
+yen - jen
+allotment of shares - przydział akcji
+bear market - bessa; rynek niedźwiedzia
+bearer share - akcja na okaziciela
+bond market - rynek obligacji
+bond - obligacja
+bull market - hossa; rynek byka
+capital market - rynek kapitałowy
+class of share - rodzaj akcji
+commodity exchange - giełda towarowa
+exchange - giełda
+holder - posiadacz
+issuance of bonds - emisja obligacji
+to issue shares - emitować akcje
+issuer - emitent
+municipal bond - obligacja komunalna
+play the market - grać na giełdzie
+preference share - akcja uprzywilejowana
+primary market - rynek pierwotny
+public offer - oferta publiczna
+registered share - akcja imienna
+secondary market - rynek wtórny
+security - papier wartościowy
+share - akcja
+stock exchange - giełda papierów wartościowych
+stock market crash - krach giełdowy
+to advertise - reklamować
+advertisement - ogłoszenie
+advertiser - reklamodawca
+advertising agency - agencja reklamowa
+advertising campaign - kampania reklamowa
+advertising - reklama
+analyst - analityk
+banner - baner
+brand awareness - świadomość marki
+brand - marka
+copywriting - copywriting
+gadget - gadżet
+market research - badanie rynku
+marketing cycle - cykl marketingowy
+marketing - marketing
+persuasion - perswazja
+placard - afisz
+product - produkt
+to promote - promować
+promotion - promocja
+prospectus - prospekt
+to publicize - reklamować
+quality - jakość
+slogan - hasło; slogan
+sponsorship - sponsoring
+strategy - strategia
+target market - grupa docelowa
+balance of payments - bilans płatniczy
+budget - budżet
+consumer - konsument
+consumption - konsumpcja
+creeping inflation - inflacja pełzająca
+debt-servicing costs - koszty obsługi długu
+economic crisis - kryzys gospodarczy
+economic growth - wzrost gospodarczy
+economist - ekonomista
+economy - gospodarka
+factors of production - czynniki produkcji
+flat tax - podatek liniowy
+free-market economy - gospodarka wolnorynkowa
+galloping inflation - galopująca inflacja
+goods and services - towary i usługi
+inflation - inflacja
+inflation rate - stopa inflacji
+liberalization - liberalizacja
+manufacturing - produkcja
+market economy - gospodarka rynkowa
+means of production - środki produkcji
+minimum wage - płaca minimalna
+national economy - gospodarka narodowa
+planned economy - gospodarka planowa
+private property - własność prywatna
+private sector - sektor prywatny
+privatization - prywatyzacja
+production costs - koszty produkcji
+public debt - dług publiczny
+public sector - sektor publiczny
+recession - recesja
+social security - opieka społeczna
+standard of living - koszty życia
+tax - podatek
+tax evasion - oszustwo podatkowe
+taxation - opodatkowanie
+unemployment - bezrobocie
+account - konto
+bank - bank
+bank clerk - urzędnik bankowy
+bank statement - wyciąg z konta
+banking - bankowość
+bearer cheque - czek na okaziciela
+branch - oddział; filia (banku)
+cash a cheque - zrealizować czek
+cash - gotówka; gotówkowy
+cashpoint - bankomat
+cheque - czek
+consumer credit - kredyt konsumpcyjny
+credit balance - saldo kredytowe
+credit card - karta kredytowa
+credit conditions - warunki kredytu
+credit history - historia kredytowa
+credit - kredyt
+credit risk - ryzyko kredytowe
+creditor - wierzyciel
+debit card - karta debetowa
+debt - dług
+debtor - dłużnik
+default interest - odsetki za zwłokę
+deposit account - depozyt bankowy
+financial adviser - doradca finansowy
+interest rate - stopa procentowa
+investment bank - bank inwestycyjny
+investment credit - kredyt inwestycyjny
+letter of credit - akredytywa
+line of credit - linia kredytowa
+liquidity - płynność finansowa
+loan - pożyczka
+mortgage - hipoteka
+mortgage loan - kredyt hipoteczny
+non-cash - bezgotówkowy
+online banking - bankowość internetowa
+overdraft - debet
+rating - rating
+savings account - konto oszczędnościowe
+statement of account - wyciąg z konta
+terms of payment - warunki płatności
+traveller's cheque - czek podróżniczy
+balance of trade - bilans handlowy
+to buy - kupić
+buying power - siła nabywcza
+chamber of commerce - izba handlowa
+commerce - handel
+competition - konkurencja
+delivery - dostawa
+to distribute - dystrybuować
+distribution - dystrybucja
+distributor - dystrybutor
+to execute an order - zrealizować zamówienie
+export - eksport
+gross price - cena brutto
+guarantee - gwarancja
+import - import
+list price - cena katalogowa
+to lose - stracić
+loss - strata
+to make a profit - osiągnąć zysk
+market share - udział w rynku
+merchant - handlarz; handlowiec; kupiec
+net price - cena netto
+to offer - oferować
+order - zamówienie
+profit - zysk
+profitable - rentowny; dochodowy
+retail - detaliczny
+retail price - cena detaliczna
+retailer - detalista
+sales representative - przedstawiciel handlowy
+salesman - sprzedawca
+saleswoman - sprzedawczyni
+sell - sprzedać
+stock - magazyn
+supplier - dostawca
+supplies - zaopatrzenie
+the exchange of goods - wymiana towarów
+trade barriers - bariery handlowe
+trade - handel
+trader - handlarz, kupiec
+turnover - obrót
+wholesale - hurtowy; hurtem
+wholesaler - hurtownik
+accountancy - księgowość
+accountant - księgowy
+acquisition - przejęcie
+chairman of the board - przewodniczący zarządu, prezes
+close down a business - zamknąć firmę
+company - spółka; firma; przedsiębiorstwo
+director - dyrektor; dyrektorka
+dividend - dywidenda
+executive director - dyrektor wykonawczy
+general meeting - walne zgromadzenie
+initial capital - kapitał założycielski
+invoice - faktura
+joint stock company - spółka akcyjna
+ledger - księga przychodów i rozchodów
+limited company - spółka kapitałowa
+limited liability company - spółka z ograniczoną odpowiedzialnością
+marketing department - dział marketingu
+merger - fuzja
+owner - właściciel
+planning department - dział planowania
+proprietor - właściciel
+sales department - dział sprzedaży
+sales manager - dyrektor handlowy
+share capital - kapitał akcyjny
+shareholder - udziałowiec; akcjonariusz
+stock capital - kapitał zakładowy
+the board of directors - zarząd
+to up a business - założyć firmę

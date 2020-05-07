@@ -1,0 +1,301 @@
+active - aktywny
+activity - aktywność
+aerobics - aerobik
+balanced diet - zrównoważona dieta
+to be in good shape - być w dobrej formie
+energy - energia
+gym - siłownia
+harmful - szkodliwy
+harmless - nieszkodliwy
+health insurance - ubezpieczenie zdrowotne
+health promotion - promocja zdrowia
+health resort - uzdrowisko
+health - zdrowie
+health-oriented - prozdrowotny
+healthy lifestyle - zdrowy styl życia
+healthy - zdrowy
+hygienic - higieniczny
+hypochondriac - hipochondryk
+immune - odporny
+immune system - układ odpornościowy
+immunity - odporność
+longevity - długowieczność
+medical care - opieka medyczna
+meditation - medytacja
+minerals - minerały
+morning exercises - poranna gimnastyka
+nutrition - odżywianie
+personal hygiene - higiena osobista
+physical activity - aktywność fizyczna
+picture of health - okaz zdrowia
+positive thinking - pozytywne myślenie
+to practise a sport - uprawiać sport
+to prevent - zapobiegać
+prevention - profilaktyka
+to reduce risk - zmniejszyć ryzyko
+to regular exercise - regularnie ćwiczyć
+relaxation - relaks
+risk - ryzyko
+sleep - sen
+to sleep - spać
+stress - stres
+unhealthy - niezdrowy
+vaccination - szczepienie
+vaccine - szczepionka
+vitamins - witaminy
+walk - spacer
+to walk - spacerować
+washing hands - mycie rąk
+to work out - trenować
+workout - trening
+ailment - dolegliwość
+allergic to... - uczulony na...
+allergy - alergia, uczulenie
+anaemia - anemia
+angina - angina
+antibody - przeciwciało
+appendictis - zapalenie wyrostka robaczkowego
+asthma - astma
+atherosclerosis - miażdżyca
+bedridden - obłożnie chory
+bird flu - ptasia grypa
+bronchitis - zapalenie oskrzeli
+burns - poparzenia; oparzenia
+carrier - nosiciel
+to catch a cold - przeziębić się
+chickenpox - ospa wietrzna
+cold - przeziębienie
+cold sore - opryszczka
+concussion - wstrząs mózgu
+conjunctivitis - zapalenie spojówek
+contagious - zakaźny; zaraźliwy
+Crohn's disease - choroba Crohna
+depression - depresja
+diabetes - cukrzyca
+diabetic - chory na cukrzycę; cukrzyk
+disorder - zaburzenie; schorzenie
+ear infection - zapalenie ucha
+epidemic - epidemia
+epilepsy - epilepsja; padaczka
+flu - grypa
+food poisoning - zatrucie pokarmowe
+fracture - złamanie
+German measles - różyczka
+get sick - zachorować
+glaucoma - jaskra
+hay fever - katar sienny
+heart attack - zawał serca
+hereditary - dziedziczny
+ill - chory
+illness - choroba
+incurable disease - nieuleczalna choroba
+to infect - zainfekować
+infection - infekcja
+infectious - zakaźny; zaraźliwy
+influenza - grypa
+insomnia - bezsenność
+jaundice - żółtaczka
+kidney stone - kamica nerkowa
+leprosy - trąd
+leukemia - białaczka
+malaria - malaria
+measles - odra
+mental illness - choroba umysłowa
+migraine - migrena
+multiple sclerosis - stwardnienie rozsiane
+mumps - świnka
+mycosis - grzybica
+neurosis - nerwica
+obesity - otyłość
+pancreatic cancer - rak trzustki
+pneumonia - zapalenie płuc
+rabies - wścieklizna
+seasickness - choroba morska
+she died of cancer - zmarła na raka
+sick - chory
+sickly - chorowity
+sickness - choroba
+sinusitis - zapalenie zatok
+smallpox - ospa
+sprain - zwichnięcie; zwichnąć
+stomach flu - grypa żołądkowa
+stomach ulcer - wrzody żołądka
+thyroid cancer - rak tarczycy
+tuberculosis - gruźlica
+virus - wirus
+acupuncture - akupunktura
+allergologist - alergolog
+ambulance - karetka
+anaesthesia - znieczulenie
+anaesthetist - anestezjolog
+antibiotic - antybiotyk
+antidote - antidotum; odtrutka
+antiseptic - środek odkażający
+aspirin - aspiryna
+balm - balsam
+bandage - bandaż
+to be discharged from hospital - zostać wypisanym ze szpitala
+betterment - poprawa
+blood test - badanie krwi
+Caesarean section - cesarskie cięcie
+capsule - kapsułka
+cardiologist - kardiolog
+chemotherapy - chemioterapia
+clinic - klinika
+clinical - kliniczny
+consciousness - przytomność
+consulting room - gabinet lekarski
+to cure - leczyć
+dermatologist - dermatolog
+to deteriorate - pogorszyć się
+to diagnose - stawiać diagnozę
+diagnosis - diagnoza
+dialysis - dializa
+doctor - lekarz
+donor - dawca
+dose of medicine - dawka leku
+dressing - opatrunek
+drip - kroplówka
+drug - lek
+euthanasia - eutanazja
+examination - badanie
+to examine - badać; zbadać
+eye drops - krople do oczu
+family doctor - lekarz rodzinny
+first aid - pierwsza pomoc
+gauze - gaza
+to give sb injection - zrobić komuś zastrzyk
+to go to bed - iść do łóżka
+gynaecologist - ginekolog
+hospital - szpital
+hospitalization - hospitalizacja
+improvement - poprawa
+to inject - wstrzykiwać
+injection - zastrzyk
+iodine - jodyna
+laryngologist - laryngolog
+local anaesthetic - znieczulenie miejscowe
+lozenge - tabletka do ssania
+massage - masaż
+medicine - 1. medycyna 2. lekarstwo
+morphine - morfina
+neurologist - neurolog
+nose drops - krople do nosa
+nurse - pielęgniarka
+ointment - maść
+oncologist - onkolog
+to operate - operować
+operating room - sala operacyjna
+operation - operacja
+orthoapedist - ortopeda
+paediatrician - pediatra
+pathologist - patolog
+patient - pacjent
+pharmacist - farmaceuta; aptekarz
+pill - pigułka
+prescription - recepta
+psychiatrist - psychiatra
+reception unit - izba przyjęć
+to recovery - wyzdrowieć
+rehabilitation - rehabilitacja
+to rescue - ratować
+scalpel - skalpel
+shot - zastrzyk
+side effect - efekt uboczny
+stretcher - nosze
+surgeon - chirurg
+surgery - chirurgia
+therapy - terapia
+thermometer - termometr
+transplantation - przeszczep
+to treat - leczyć
+treatment - leczenie
+ultrasound exam - badanie ultrasonograficzne
+urine test - badanie moczu
+ward - oddział szpitalny
+ache - ból
+to ache - boleć
+backache - ból pleców
+to bleed - krwawić
+bleeding - krwawienie; krwotok
+blood - krew
+bruise - siniak
+chills - dreszcze
+to choke - dusić się
+clot - skrzep
+coma - śpiączka
+complication - komplikacja
+constipation - zaparcie; zatwardzenie
+cough - kaszel
+to cough - kaszleć
+cut - skaleczenie
+to faint - zemdleć
+to feel sick - źle się czuć
+fever - gorączka
+to have a fever - mieć gorączkę
+headache - ból głowy
+heartburn - zgaga
+high blood pressure - wysokie ciśnienie krwi
+indigestion - kłopoty z trawieniem
+injury - rana; uraz
+itch - 1. swędzenie 2. świerzb
+lack of appetite - brak apetytu
+lack of balance - zaburzenia równowagi
+low-grade fever - stan podgorączkowy
+muscle pains - ból mięśni
+overweight - nadwaga
+pain - ból
+painful - bolesny
+paralysis - paraliż
+rash - wysypka
+secondary tumour - przerzut
+sneeze - kichać
+sore throat - ból gardła
+stomach ache - ból żołądka
+stomach trouble - problemy żołądkowe
+swell - puchnąć
+swollen - spuchnięty
+symptoms - objawy
+to vomit - wymiotować
+vomiting - wymioty
+weakness - osłabienie
+braces - aparat ortodontyczny
+bridge - mostek
+caries - próchnica
+cavity - próchnica
+crooked teeth - krzywe zęby
+crown - koronka
+decay - próchnica
+dental clinic - klinika dentystyczna
+dental drill - wiertarka dentystyczna
+dentist chair - fotel dentystyczny
+dentist - dentysta; stomatolog
+dentures - proteza (zębowa)
+to drill a tooth - borować
+to extract a tooth - wyrwać ząb
+extraction - usunięcie zęba
+to fill - plombować; zaplombować
+filling - plomba
+floss - nić dentystyczna
+gingivitis - zapalenie dziąseł
+gums - dziąsła
+I have toothache - bolą mnie zęby
+I've lost a filling - wypadła mi plomba
+to knock out a tooth - wybić ząb
+milk teeth - zęby mleczne
+my gums bleed - dziąsła (mi) krwawią
+panoramic X-ray - rentgen panoramiczny
+paradentosis - paradontoza
+plaque - płytka nazębna
+rinse - płukanie
+to rinse - płukać
+root canal - kanał zęba
+sensitive tooth - wrażliwy ząb
+tartar - kamień nazębny
+teeth whitening - wybielanie zębów
+this tooth needs filling - ten ząb trzeba zaplombować
+tongue - język
+tooth enamel - szkliwo
+toothache - ból zęba/zębów
+wisdom tooth - ząb mądrości
+wobbly tooth - chwiejący się ząb

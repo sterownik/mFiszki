@@ -1,0 +1,454 @@
+zabstract art - sztuka abstrakcyjna
+aesthetics - estetyka
+applied art - sztuka użytkowa
+architecture - architektura
+art for art's sake - sztuka dla sztuki
+art gallery - galeria sztuki
+art historian - historyk sztuki
+art - sztuka
+artist - artysta
+avant-garde - awangarda
+baroque - barok
+beauty - piękno
+classicism - klasycyzm
+conceptual art - sztuka konceptualna
+contemporary art - sztuka współczesna
+to create - tworzyć
+creativity - kreatywność
+creator - twórca
+cubism - kubizm
+dadaism - dadaizm
+emotions - emocje
+exhibited pictures - wystawione obrazy
+to express - wyrażać
+expressionism - ekspresjonizm
+fine arts - sztuki piękne
+graphic artist - grafik
+impressionism - impresjonizm
+mimesis - mimesis
+museum - muzeum
+to open an exhibition - otworzyć wystawę
+opening - wernisaż
+pseudo-art - kicz
+rococo - rokoko
+romanticism - romantyzm
+style - styl
+surrealism - surrealizm
+symbol - symbol
+symbolic - symboliczny
+talent - talent
+taste - gust
+work of art - dzieło sztuki
+action - akcja
+action film - film akcji
+actor - aktor
+actress - aktorka
+adventure film - film przygodowy
+camera - kamera
+camera operator - operator kamery
+cartoon film - film rysunkowy
+cast - obsada
+cinema - kino
+cinematography - kinematografia
+clapper - klaps
+crew - sztab
+crowd scene - scena zbiorowa
+cut - montaż
+cutting room - montażownia
+directing - reżyseria
+director - reżyser
+disaster film - film katastroficzny
+documentary - film dokumentalny
+dub - dabować
+to engage extras - zatrudniać statystów
+executive producer - producent wykonawczy
+feature film - film fabularny
+film industry - przemysł filmowy
+film star - gwiazda filmowa
+film-goer - kinoman
+film-maker - filmowiec
+filmed in Greece - nakręcony w Grecji
+montage - montaż
+movie studio - studio filmowe
+premiere - premiera
+producer - producent
+road movie - film drogi
+screen - ekran
+screenwriter; scriptwriter - scenarzysta
+script; scenario - scenariusz
+silent film - film niemy
+soundtrack - ścieżka dźwiękowa
+special effects - efekty specjalne
+stuntman - kaskader
+subtitles - napisy
+western - western
+camera body - obudowa aparatu
+to change the lens - zmienić obiektyw
+compact camera - aparat kompaktowy
+to compress an image - skompresować zdjęcie
+darkroom - ciemnia
+diapozitive - diapozytyw
+digital camera - aparat cyfrowy
+disposable camera - aparat jednorazowy
+film - film
+flash - lampa błyskowa
+glossy - błyszczący
+lens - obiektyw
+to load the film - założyć film
+matt - matowy
+memory card - karta pamięci
+to mount the lens - założyć obiektyw
+negative - negatyw
+photo - zdjęcie
+to photograph something - fotografować coś
+photography - fotografia
+photograpic - fotograficzny
+polarizing filter - filtr polaryzacyjny
+to process a film - wywołać film
+red-eye reduction - redukcja efektu czerwonych oczu
+to remove the lens - zdjąć obiektyw
+resolution - rozdzielczość
+to rewind the film - przewinąć film
+say cheese! - uśmiech proszę!
+shutter - migawka
+to take a photo - zrobić zdjęcie
+tripod - statyw
+white balance - balans bieli
+wide-angle lens - obiektyw szerokokątny
+to accompany - akompaniować
+alto - alt
+band - zespół muzyczny
+baritone - baryton
+bass - 1. bas 2. basista
+beat - takt
+blues - blues
+catchy - wpadający w ucho
+chamber music - orkiestra kameralna
+choir - chór
+chord - akord
+chorus - refren
+to compose - komponować
+composer - kompozytor
+composition - utwór
+concert hall - sala koncertowa
+concert - koncert
+to conduct - dyrygować
+conductor - dyrygent
+crotchet - ćwierćnuta
+duet - duet
+elegy - elegia
+to give a concert - koncertować
+to go to a concert - iść na koncert
+to hum - nucić
+lullaby - kołysanka
+lyrics - tekst; słowa
+major - dur /tonacja/
+melody - melodia
+minor - moll /tonacja/
+music lover - meloman
+music - muzyka
+musical - muzyczny
+musician - muzyk
+note - nuta
+oratorio - oratorium
+orchestral - orkiestrowy
+overture - uwertura
+perfect pitch - słuch absolutny
+piece of music - utwór muzyczny
+to play by ear - grać ze słuchu
+psalm - psalm
+quarter - kwartet
+to read music - czytać nuty
+to record - nagrywać; nagrać
+record player - gramofon
+recording - nagranie
+scale - gama
+score - zapis nutowy
+serenade - serenada
+to sing on playback - śpiewać z playbacku
+to sing out of tune - fałszować
+to sing - śpiewać
+singer - śpiewak; śpiewaczka
+singing lessons - lekcje śpiewu
+soloist - solista
+song - piosenka
+songbook - śpiewnik
+sort of music - rodzaj muzyki
+sound - dźwięk; brzmienie
+to strum - brzdąkać
+symphony - symfonia
+tenor - tenor
+trio - trio
+vocal - wokalny
+vocalist - wokalista
+voice - głos
+we were at a concert - byliśmy na koncercie
+accordion - akordeon
+bagpipes - dudy
+banjo - banjo
+bassoon - fagot
+brass instruments - instrumenty dęte blaszane
+castanets - kastaniety
+cellist - wilonczelista
+cello - wiolonczela
+clarinet - klarnet
+cymbals - cymbałki
+double bass - kontrabas
+drummer - perkusista
+drums - perkusja
+drumstick - pałeczka /do gry na bębnie/
+flute - flet
+gong - gong
+guitar - gitara
+guitarist - gitarzysta
+harp - harfa
+horn - róg
+instrument - instrument
+instrumental - instrumentalny
+lute - lutnia
+lyre - lira
+mandolin - mandolina
+mouth organ - harmonijka ustna
+organ - organy
+pianist - pianista
+piano - fortepian; pianino
+to play the piano - grać na pianinie
+saxophone - saksofon
+saxophonist - saksofonista
+string - struna
+tambourine - tamburyn
+triangle - trójkąt
+trombone - puzon
+trumpet - trąbka
+trumpeter - trębacz
+violin - skrzypce
+violinist - skrzypek
+wind instruments - instrumenty dęte
+zither - cytra
+to ask sb for a dance - prosić kogoś do tańca
+ball - bal
+ballroom dancing - taniec towarzyski
+belly dance - taniec brzucha
+choreographer - choreograf
+choreography - choreografia
+classical dance - taniec klasyczny
+dance - taniec
+to dance - tańczyć
+dance classes - lekcje tańca
+dance floor - parkiet
+dance group - grupa taneczna
+dance step - krok taneczny
+dance studio - szkoła tańca
+dancer - 1. tancerz 2. tancerka
+folk dance - taniec ludowy
+mazurka - mazurek
+modern dance - taniec nowoczesny
+polka - polka
+to practise new steps - ćwiczyć nowe kroki
+rhythm - rytm
+rhythmic - rytmiczny
+rumba - rumba
+samba - samba
+tango - tango
+waltz - walc
+acrylic paint - farba akrylowa
+background - tło
+brush - pędzel
+canvas - płótno
+chalk - kreda
+charcoal - węgiel rysunkowy
+colouring book - kolorowanka
+crayon - kredka
+to crayon - rysować kredką
+draughtsman - kreślarz; rysownik
+drawing board - deska kreślarska
+drawing - rysunek
+easel - sztaluga
+encaustic painting - enkaustyka
+foreground - pierwszy plan
+frame - rama
+fresco - fresk
+genre painting - malarstwo rodzajowe
+graphite - grafit
+illustration - ilustracja
+ink - tusz; atrament
+landscape - pejzaż
+mosaic - mozaika
+oil painting - obraz olejny
+paint - farba
+painter - malarz; malarka
+painting - 1. malarstwo 2. płótno
+palette - przyrząd
+pencil - 1. ołówek 2. pędzelek
+picture - obraz
+poster plaint - farba plakatowa
+scenes from everyday life - sceny z codziennego życia
+self-portrait - autoportret
+sketch - szkic
+still life - martwa natura
+stroke of the brush - pociągnięcie pędzlem
+veduta - weduta
+watercolor - akwarela
+brass - mosiądz
+bust - popiersie
+to carve - rzeźbić; wykuwać
+cast - odlew
+to cast - odlewać
+ceramic - ceramiczny
+ceramics - ceramika
+chisel - dłuto
+clay - glina
+copperplate - miedzioryt
+to engrave - ryć; wyryć; grawerować
+engraving - 1. rytownictwo 2. grawerunek
+to glaze - pokrywać emalią
+granite - granit
+limestone - wapień
+marble - marmur
+mould - forma odlewnicza
+plaster - gips
+potter - garncarz
+potter's wheel - koło garncarskie
+pottery - garncarstwo
+sandstone - piaskowiec
+to sculpt - rzeźbić
+sculptor - rzeźbiarz
+sculpture - 1. rzeźba 2. rzeźbiarstwo
+spatula - szpachelka
+statue - statua; posąg
+statuette - posążek
+stone - kamień
+woodcut - drzeworyt
+acclaim - uznanie
+applause - aplauz
+audience - publiczność
+ballet - balet
+to boo - wygwizdać
+box - loża
+box office - kasa
+circle - balkon
+cloakroom - szatnia
+comedy - komedia
+curtain - kurtyna
+dialogue - dialog
+drama - dramat
+encore - bis
+flop - klapa
+footlight - rampa
+gesture - gest
+to go off the scene - schodzić ze sceny
+lighting - oświetlenie
+mime artist - mim
+opera glasses - lornetka teatralna
+opera - opera
+operetta - operetka
+ovation - owacja
+pantomime - pantomima
+parody - parodia
+to parody - parodiować
+performance - przedstawienie
+performer - wykonawca
+playwright - dramatopisarz
+prompt corner - budka suflera
+prompt; prompter - sufler
+proscenium - proscenium
+puppet - marionetka; kukiełka
+puppet-show - przedstawienie lalkowe
+revolving stage - scena obrotowa
+row - rząd
+scenographer - scenograf
+scenography - scenografia
+seat - siedzenie
+stage fright - trema
+stage - scena
+stalls - parter
+stand-up - występ solowy
+street theatre - teatr uliczny
+theatre - teatr
+theatrical property - rekwizyt
+tragedy - tragedia
+trap-door - zapadnia
+usher - bileter
+acrostic - akrostych
+allegory - alegoria
+anthology - antologia
+antithesis - antyteza
+aphorism - aforyzm
+assonance - asonans
+author - autor
+autobiography - autobiografia
+ballad - ballada
+bibliography - bibliografia
+byronic hero - bohater bajroniczny
+chapter - rozdział
+character - postać
+children's literature - literatura dla dzieci
+content - treść
+cover - okładka
+detective fiction - powieść kryminalna
+diary - dziennik
+drama - dramat
+elegy - elegia
+epic poetry - epika
+epistolary novel - powieść epistolarna
+essay - esej
+fairy tale - bajka
+fiction - fikcja
+fictional - fikcyjny
+figure of speech - figura retoryczna
+flashback - retrospektywa
+hero - bohater
+heroine - bohaterka
+hexameter - heksametr
+historical novel - powieść historyczna
+hyperbole - hiperbola
+iamb - jamb
+idyllic - idylliczny; sielankowy
+incunable - inkunabuł
+irony - ironia
+legend - legenda
+line - wers
+literary criticism - krytyka literacka
+literary - literacki
+literary theory - teoria literatury
+literature - literatura
+lyric poetry - liryka
+manuscript - rękopis
+masculine rhyme - rym męski
+metaphor - metafora
+metonymy - metonimia
+metre - metrum
+narrative - narracja
+narrative poetry - poemat
+narrator - narrator
+novel - powieść
+novelist - powieściopisarz
+novella - nowela
+nursery rhyme - rymowankaa
+ode - oda
+pamphlet - pamflet
+personification - personifikacja; uosobienie
+picaresque novel - powieść łotrzykowska
+poem - 1. wiersz 2. poemat
+poetry - poezja
+prose poetry - proza poetycka
+prose - proza
+psychological novel - powieść psychologiczna
+to publish - wydać
+publisher - wydawca
+to read - czytać
+reader - czytelnik
+rhetorical question - pytanie retoryczne
+rhyme - rym
+satire - satyra
+satirical - satyryczny
+satirist - satyryk
+short story - opowiadanie
+sonnet - sonet
+surprise ending - zaskakujące zakończenie
+tragic hero - bohater tragiczny
+tragicomedy - tragikomedia
+trochee - trochej
+unrhymed - nierymowany; bezrymowy
+verse - 1. wiersz 2. strofa; zwrotka
+writer - pisarz

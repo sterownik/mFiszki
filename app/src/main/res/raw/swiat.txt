@@ -1,0 +1,466 @@
+a good while ago - dosyć dawno temu
+after - po
+after a short space - po krótkiej chwili
+afternoon - popołudnie; popołudniowy
+antiquity - starożytność
+any day now - lada dzień
+at any time - lada chwila; lada moment
+at dusk - o zmierzchu
+at midnight - o północy
+at my time of life - w moich czasach
+before - przed
+before now - przedtem
+by now - do tego czasu
+calendar - kalendarz
+century - stulecie; wiek
+clock - zegar
+date - data
+day - dzień
+day by day - dzień po dniu
+earlier - wcześniej
+early - wcześnie
+early in the morning - wcześnie rano
+early last week - na początku zeszłego tygodnia
+end of the year - koniec roku
+epoch - epoka
+era - era
+eternity - wieczność
+even on Sundays - nawet w niedziele
+evening - wieczór
+every other day - co drugi dzień
+every week - co tydzień
+far into the night - do późna w nocy
+farther - dalej
+farthest - najdalej
+for a few minutes - przez kilka minut
+fortnight (BRIT) - dwa tygodnie
+from now on - od tej pory
+from time to time - od czasu do czasu
+future - przyszłość
+half an hour - pół godziny
+hour - godzina
+hourly - godzinny
+in 10 minutes flat - dokładnie za 10 minut
+in another 5 years - za następne pięć lat
+in earlier times - dawniej
+in the afternoon - po południu
+in the alloted time - w wyznaczonym czasie
+in the daytime - za dnia
+in the evening - wieczorem
+in the foreseeable future - w najbliższej przyszłości
+in the month of July alone - tylko w lipcu
+in the morning - rano; rankiem
+in the near future - w niedalekiej przyszłości
+in the next few days - w ciągu kilku najbliższych dni
+in the same breath - w tym samym momencie
+in the small hours - nad ranem
+in the space of an two hours - w przeciągu dwóch godzin
+in this days and age - w obecnych czasach
+in those days - wówczas; w owych czasach
+instant - chwila
+instantaneous - chwilowy
+just now - właśnie teraz; dopiero co
+keep time - wskazywać czas
+lack of time - brak czasu
+lapse of time - upływ czasu
+late - późno
+later - później
+leap year - rok przestępny
+long ago - dawno
+midnight - północ
+midweek - w środku tygodnia
+minute - minuta
+moment - moment; chwila
+momentary - chwilowy
+month - miesiąc
+monthly - miesięcznie; miesięczny
+morning - poranek
+night - noc
+noon - południe
+not long afterward - niedługo potem
+not long ago - niedawno
+nowadays - obecnie; dzisiaj
+on alternate days - co drugi dzień
+on the stroke of five - punktualnie o piątej
+past - przeszłość
+period - okres
+present - teraźniejszość
+quarter of an hour - kwadrans
+rarely - rzadko
+season - sezon
+seasonal - sezonowy
+second - sekunda
+seldom - rzadko
+solar clock - zegar słoneczny
+some hours later - kilka miesięcy później
+some other time - kiedy indziej
+sometimes - czasami
+sudden - nagły
+suddenly - nagle
+summer time - czas letni
+the coming year - nadchodzący rok
+the day after tomorrow - pojutrze
+the evening wore on - wieczór mijał
+the good old days - stare dobre czasy
+the week before - tydzień wcześniej
+then - potem
+these days - w dzisiejszych czasach
+this day fortnight - za dwa tygodnie
+this evening - dziś wieczorem
+three hours on end - trzy godziny z rzędu
+three years in succession - przez trzy kolejne lata
+time - czas
+time of day - pora dnia
+today - dzisiaj
+tomorrow - jutro
+toward the end of the week - pod koniec tygodnia
+twenty past one - pierwsza dwadzieścia
+two weeks away - za dwa tygodnie
+watch - zegarek
+week - tydzień
+whenever - kiedykolwiek
+winter time - czas zimowy
+year - rok
+a long way apart - daleko od siebie
+above - powyżej
+abyss - przepaść; głębia; otchłań
+all along the road - wzdłuż całej drogi
+all over the room - po całym pokoju
+all over the world - na całym świecie
+alongside - przy; obok
+among - wśród
+angle - kąt; róg narożnik
+anywhere - gdzieś
+anywhere in the world - gdziekolwiek na świecie
+area - obszar
+around - wokół
+at a depth of 5 metres - na głębokości pięciu metrów
+at a distance of two metres - w odległości dwóch metrów
+at close quarters - z bliska
+at the back - z tyłu
+back - tył
+backward - tylny; z tyłu; wstecz
+backwards - do tyłu; wstecz; w tył
+behind - za
+below - poniżej
+beside - obok
+between - między
+centre - środek
+close by - tuż obok
+close to - blisko
+corner - róg
+deep - głęboki
+to deepen - pogłębiać; pogłębić
+deeply - głęboko
+depth - głębokość
+distance - dystans; odległość; oddalenie
+distant - odległy
+everywhere - wszędzie
+far - daleko
+far away - daleko
+far off - daleko
+for the space of a kilometre - na odległość kilometra
+front - przód
+good way off - kawał drogi stąd
+here - tu
+here and there - tu i tam
+high - wysoko; wysoki
+horizon - horyzont
+inside - wewnątrz
+it's not far from here - to niedaleko stąd
+left - lewy
+location - lokalizacja; położenie
+low - nisko; niski
+middle - środek
+midroad - w połowie drogi
+near - blisko; bliski
+nearby - pobliski
+neighbourhood - okolica
+neighbouring - sąsiedni
+not far - niedaleko
+on - na
+on the left - na lewo
+opposite - naprzeciwko
+outside - na zewnątrz
+over - nad
+placement - umiejscowienie
+position - pozycja
+remoteness - odległość (w przestrzeni)
+right - prawy
+side - bok
+situation - położenie
+space - przestrzeń
+to surround - otaczać
+there - tam
+top - góra; górna część
+two kilometers across - o szerokości dwóch kilometrów
+under - pod
+across - przez
+along - wzdłuż
+to approach - zbliżać się
+around the corner - za rogiem
+at the far end - na drugim końcu
+at the far side - po drugiej stronie
+beside - obok
+course - kurs
+crosswise - na krzyż; w poprzek
+direction - kierunek
+down - dół; w dół
+downwards - w dół
+east - wschód
+entrance - wejście
+everywhere - wszędzie
+exit - wyjście
+forwards - do przodu
+from - z
+in between - pośrodku
+to know the way - znać drogę
+landmark - punkt orientacyjny
+lengthways - wzdłuż
+to lose the way - zgubić drogę
+north - północ
+northward - na północ
+on the left - po lewej
+on the other side - po drugiej stronie
+on the right - po prawej
+to pass - mijać; minąć
+south - południe
+southbound - prowadzący na południe
+southerly - południowy
+southern - południowy
+southward(s) - na południe
+widthways - wszerz
+to accelerate - przyspieszać; przyspieszyć
+acceleration - przyspieszenie
+at full speed - przy pełnej prędkości
+to bend down - schylać się
+to bend over - nachylać się; pochylać się
+to brake - zahamować
+to decelerate - zmniejszać prędkość
+destination - cel
+dilatory - opieszały
+dizzy speed - zawrotna prędkość
+dynamic - dynamika
+dynamics - dynamiczny
+fast - szybki
+to fly - lecieć
+to gather speed - nabierać prędkości
+to go - iść
+hurry - pośpiech
+to keep walking - idź dalej
+to lean out - wychylać się; wychylić się
+to lean over - przechylać się; przechylić się
+like a streak of lightning - błyskawicznie
+to lose speed - tracić prędkość
+low speed - niska prędkość
+manoeuvre - manewr
+march - maszerować
+motion - ruch
+motionless - nieruchomy; w bezruchu
+move - ruch
+to move along - przesuwać się; przesunąć się
+to overtake - wyprzedzać
+quick - szybki
+quickly - szybko
+ride - jazda
+to run - biec
+to shift - przesuwać; przesunąć
+slow - powoli
+to slow down - zwolnić
+step - krok
+to streak - mknąć
+to surround - otoczyć
+to turn - skręcić
+to walk - spacerować
+a babble of voices - gwar
+aloud - głośno; na głos
+audible - słyszalny
+bang - trzask; łomot; huk
+blast of a siren - dźwięk syreny
+to bleat - beczeć
+boisterous - hałaśliwy
+to buzz - bzyczeć
+clatter - brzęk, stukot
+to creak - skrzypieć; zaskrzypieć
+to crow - piać
+dumb - niemy
+echo - echo
+hear - słyszeć
+to holler - wrzeszczeć; ryczeć
+loud - głośny
+melodious - melodyjny
+melody - melodia
+noise - hałas
+noiseless - bezgłośny
+noisy - hałaśliwy
+to resound - rozbrzmiewać
+roar - ryk
+rustle - szelest
+scream - krzyk
+silent - cichy; cisza
+to sing - śpiewać
+sound - dźwięk
+soundproof - dźwiękoszczelny
+splash - plusk; pluśnięcie
+to squawk - skrzeczeć; zaskrzeczeć
+to squeal - piszczeć; zapiszczeć
+swish - świst
+tune - melodia
+voice - głos
+warble - świergot; ćwierkanie
+whisper - szept
+whistle - gwizd
+azure - lazurowy
+beige - beżowy
+black - czarny
+blue - niebieski
+brown - brązowy
+colour - kolor; barwa
+colour scheme - kolorystyka
+colourful - kolorowy, barwny
+crimson - purpurowy
+dark - ciemny
+dark blue - ciemnoniebieski
+deep red - ciemnoczerwony
+dull - matowy
+gaily coloured - bardzo kolorowy
+garish - jaskrawy
+gold - złoty
+green - zielony
+greenish - zielonkawy
+grey - szary
+harsh colours - ostre kolory
+light - jasny
+maroon - bordowy
+navy blue - granatowy
+olive - oliwkowy
+orange - pomarańczowy
+pale - blady
+pale blue - bladoniebieski
+pink - różowy
+primary colour - barwa podstawowa
+puce - fioletowobrązowy
+purple - purpurowy
+red - czerwony
+reddish - czerwonawy
+scarlet - jasnoczerwony
+silver - srebrny
+sky-blue - błękitny
+turquoise - turkusowy
+violet - fioletowy
+white - biały
+whiteness - biel
+yellow - żółty
+yellowish - żółtawy
+angular - kanciasty
+aperture - otwór; szczelina
+arc - łuk
+breakable - łamliwy; kruchy
+circle - koło
+circular - kolisty
+to come to bits - rozlecieć się na kawałki
+concave - wklęsły
+cone - stożek
+conical - stożkowaty
+convex - wypukły
+cross - krzyż
+to crumble - rozpadać się; walić się; kruszyć się
+cube - sześcian
+cubic - sześcienny
+curved - zakrzywiony
+cylinder - walec
+deformation - deformacja
+egg-shaped - jajowaty
+even with the ground - równy z ziemią
+flat - płaski
+form - forma
+heart-shaped - w kształcie serca
+horizontal - poziomy
+jagged - postrzępiony; wyszczerbiony
+to jut - wystawać; sterczeć
+length - długość
+lengthen - wydłużać; przedłużać
+lengthy - przydługi; rozwlekły
+long - długi
+narrow - wąski
+oval - owal
+parallel - równoległy
+rectangle - prostokąt
+rectangular - prostokątny
+round - okrągły
+rounded - zaokrąglony
+semi-circle - półkole
+semicircular - półkolisty
+to shape - formować; kształtować; ukształtować
+shape - kształt
+shapeless - bezkształtny
+sharp - ostry
+sharpened - zaostrzony
+short - krótki
+smooth - gładki
+smoothness - gładkość
+sphere - kula
+spherical - kulisty
+square - kwadrat
+to take shape - nabierać kształtu
+thin - cienki
+triangle - trójkąt
+triangular - trójkątny
+vertical - pionowy
+winding - wijący się; kręty
+after dark - po zmroku
+by moonlight - przy świetle księżyca
+darkness - ciemność; mrok
+daylight - światło dzienne
+to dazzle - olśniewać; olśnić; oślepiać; oślepić
+dusky - mroczny
+to glimmer - migotać; zamigotać
+to glisten - lśnićl połyskiwać
+to glitter - błyszczeć; skrzyć się
+glow - łuna; poświata
+in the dark - w ciemności; po ciemku
+murk - mrok
+murky - mroczny
+nightfall - zmrok
+poor light - słabe światło
+radiance - blask
+sheen - połysk
+to sparkle - mienić się; skrzyć się
+starlight - światło gwiazd
+streak - smuga; promień
+the play of light - gra świateł
+to twinkle - migotać; skrzyć się
+under cover of darkness - pod osłoną nocy
+abdominable - wstrętny; odrażający
+to abhor - brzydzić się; czuć odrazę
+abhorrent - odrażający
+aesthetic - estetyczny
+aesthetically - estetycznie
+alluring - ponętny
+awful - straszny; okropny
+beautiful - piękny
+beautify - upiększać
+beauty - piękno
+beauty is in the eye of the beholder - piękno jest rzeczą gustu
+beauty is only skin deep - piękno jest powierzchowne
+bilious - obrzydliwy
+detestable - obrzydliwy; wstrętny
+to disfigure - oszpecać; oszpecić
+disgust - obrzydzenie; wstręt; odraza
+disgusting - obrzydliwy; wstrętny
+distaste - niesmak; obrzydzenie
+distasteful - wstrętny; obrzydliwy
+exquisite - przepiękny
+eyesore - paskudztwo
+grotty - okropny
+to grow pretty - wypięknieć
+hideous - ohydny; szkaradny
+hideously - ohydnie; szkaradnie
+horrid - obrzydliwy; wstrętny
+loathing - odraza; obrzydzenie
+loathsome - wstrętny
+to nauseate - budzić wstręt
+odious - wstrętny
+repulsion - wstręt; odraza
+repulsive - odpychający
+revolting - odrażający; budzący odrazę

@@ -1,0 +1,177 @@
+anchor - kotwica
+away from wind - z wiatrem
+boat hook - bosak
+boat - łódź
+boom - bom
+bow lines - cumy dziobowe
+bow thruster - ster strumieniowy
+bow - dziób
+daggerboard - miecz
+diesel tank - zbiornik paliwa
+downwind - kurs z wiatrem
+foresail - fok
+to furl the sails - zwijać żagle; zwinąć żagle
+gybe - zwrot z wiatrem
+hoist the sails - podnosić żagle
+hull - kadłub
+leeward - strona zawietrzna; zawietrzny
+log book - dziennik jachtowy
+mast - maszt
+mooring line - cuma
+navigation set - zestaw nawigacyjny
+oarlocks - fulki
+off wind - z wiatrem
+overlap - krycie
+penalty - kara
+quartering - baksztag
+raise the sails - podnosić żagle
+rocking - kołysanie
+rudder - ster
+sail - żagiel
+to sail - żeglować
+sailing - żeglarstwo
+side - burta
+signal flare - flara
+spread the sails - rozwijać żagle; rozwinąć żagle
+stern - rufa
+tack - zwrot na wiatr
+tiller - rumpel
+turn - obrót
+under full sail - pod pełnymi żaglami
+upwind - kurs pod wiatr
+water tank - zbiornik wody
+winch handle - korba do kabestanu
+winches - kabestany
+wind aft - wiatr z rufy
+wind - wiatr
+windward - strona nawietrzna; nawietrzny
+zone - strefa
+canasta - kanasta
+card games - gry karciane
+card-player - gracz w karty
+card-sharper - szuler
+card-table - stolik do gry w karty
+cards - karty
+clubs - trefl; żołądź
+contract bridge - brydż
+deal - rozdanie
+to deal - rozdawać
+deck - talia
+diamonds - karo
+four of a kind - kareta
+hearts - kier
+high card - brak pary
+jack - walet
+joker - joker
+king - król
+mau mau - makao
+nine - dziewiątka
+old maid - piotruś
+poker - poker
+queen - dama
+rummy - remik
+to shuffle - tasować
+shuffling - tasowanie
+skat - skat
+spades - pik; wino
+ten - dziesiątka
+trump - atut
+two pairs - dwie pary
+war - wojna
+whist - wist
+amulet - amulet
+astrology - astrologia
+bad omen - zły znak
+bewitched - zaklęty
+black magic - czarna magia
+to bring bad luck - przynosić nieszczęście
+to bring luck - przynosić szczęście
+to call up spirits - wywoływać duchy
+to cast a spell - rzucać urok; rzucić urok
+clairvoyance - jasnowidztwo
+clairvoyant - jasnowidz
+conjurer - magik
+crystal ball - kryształowa kula
+fairy - wróżka
+fortune-teller - wróżbita; wróżka
+ghost - duch
+good fairy - wróżka
+horoscope - horoskop
+illusion - iluzja
+illusionist - iluzjonista
+lucky number - szczęśliwa liczba
+magic spell - czary
+magic wand - czarodziejska różdżka
+magic - magia; magiczny
+magician - magik
+medium - medium
+mystic - mistyczny
+myth - mit
+occult - okultyzm
+predicition - przepowiednia
+to predict - przepowiadać
+to put a jinx on sb - przynosić komuś pecha
+sign of the zodiac - znak zodiaku
+sixth sense - szósty zmysł
+sorcerer - czarodziej
+sorceress - czarodziejka
+sorcery - czarnoksięstwo
+superstition - przesąd
+superstitious - przesądny
+talisman - talizman
+trick - sztuczka
+under a spell - zaczarowany
+witch - czarownica
+acrobat - akrobata
+acrobatics - akrobatyka
+applause - oklaski
+arena - arena
+big top - namiot cyrkowy
+cage - klatka
+circus acts - popisy cyrkowe
+circus owner - właściciel cyrku
+circus performer - cyrkowiec
+circus rider - woltyżer
+circus riding - woltyżerka
+circus - cyrk; cyrkowy
+clown - klaun
+contortionist - człowiek-guma
+hoop - obręcz
+to juggle - żonglować
+juggler - żongler
+juggling - żonglerka
+to jump through a hoop - skakać przez obręcz
+to jump - skoczyć
+jump - skok
+lion taming - tresura lwów
+safety net - siatka ochronna
+salto - salto
+sawdust - trociny
+somersault - salto
+spectacle - spektakl
+spectator - widz
+stilt - szczudło
+trainer - treser
+trapeze - trapez
+troupe - trupa
+to walk on stilts - chodzić na szczudłach
+fishing rod - wędka
+artificial fly - mucha wędkarska
+fishing - wędkarstwo
+fish - ryba
+fishing lure - błystka
+fish hook - haczyk
+bait - przynęta
+to bait a hook - zakładać przynętę na haczyk
+spoon lure - wahadłówka
+fishing line - żyłka wędkarska
+float - spławik
+hook fishes - łowić ryby wędką
+reel - kołowrotek
+sinker - ciężarek
+fly fishing - wędkarstwo muchowe
+to catch fish - łowić ryby
+fisherman - wędkarz
+angler - wędkarz
+trolling - trolling
+spearfishing - łowienie podwodne (z kuszą)

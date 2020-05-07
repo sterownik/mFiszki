@@ -1,0 +1,542 @@
+assistant - sprzedawca; sprzedawczyni
+bakery - piekarnia
+bargain - okazja
+bill - rachunek
+bookshop - księgarnia
+boutique - butik
+brand - marka
+to buy something - kupić coś
+cash register - kasa fiskalna
+cashier - kasjer; kasjerka
+cheap - tani
+cheaper - tańszy
+cheapest - najtańszy
+chemist's (BRIT) - apteka
+complain - reklamacja
+consumer - konsument
+customer - klient; klientka
+department store - dom handlowy
+drug-store (AM) - apteka
+expensive - drogi
+fashion shop - dom mody
+florist's - kwiaciarnia
+gift shop - upominki
+good - towar
+hypermarket - hipermarket
+inexpensive - niedrogi
+instalment - rata
+mail-order catalogue - katalog wysyłkowy
+mall - centrum handlowe
+opening hours - godziny otwarcia
+payment by instalments - zapłata na raty
+pharmacy - apteka
+price - cena
+quality - jakość
+queue - kolejka
+receipt - paragon
+retail price - cena detaliczna
+sale - wyprzedaż
+sales clerk - sprzedawca
+to save - zaoszczędzić
+to sell - sprzedać
+shoe shop - sklep obuwniczy
+shop - sklep
+shopping centre - centrum handlowe
+shopping trolley - wózek na zakupy
+shopping - zakupy
+special offer - oferta specjalna
+sports shop - sklep sportowy
+stationer's - sklep papierniczy
+supermarket - supermarket
+toy shop - sklep z zabawkami
+aftershave - woda po goleniu
+care - pielęgnacja
+complexion - cera
+conditioner - odżywka
+cosmetics - kosmetyki
+cream - krem
+deodorant - dezodorant
+depilatory cream - krem do depilacji
+dry complexion - cera sucha
+eau de cologne - woda kolońska
+face cream - krem do twarzy
+face mask - maseczka
+foot cream - krem do stóp
+foundation - podkład
+gel - żel
+hair clip - klips do włosów
+hair gel - żel do włosów
+hand cream - krem do rąk
+lip crayon - kredka do ust
+lotion - mleczko kosmetyczne
+make-up - makijaż
+mascara - tusz do rzęs
+mouthwash - płyn do płukania ust
+nail scissors - nożyczki do paznokci
+normal complexion - cera normalna
+oil - oliwka
+oily complexion - cera tłusta
+ointment - maść
+powder box - puderniczka
+pumice - pumeks
+rouge brush - pędzel do różu
+sanitary strip - wkładka higieniczna
+shampoo - szampon
+shower gel - żel pod prysznic
+skin - skóra
+soap - mydło
+talcum powder - talk
+tampon - tampon
+tissue - chusteczka higieniczna
+toilet bag - kosmetyczka (torebka)
+tonic - tonik
+toothbrush - szczoteczka do zębów
+toothpaste - pasta do zębów
+tweezers - pęseta
+washing liquid - mydło w płynie
+ankle socks - skarpetki do kostek
+apron - fartuch
+balaclava - kominiarka
+baseball cap - czapka z daszkiem
+belt - pasek
+beret - beret
+bikini - bikini
+blazer - blezer
+blouse - bluzka
+bow tie - muszka
+bra - biustonosz
+brassiere - biustonosz
+briefs - slipy
+button - guzik
+cap - czapka
+casual clothes - odzież codzienna
+checked - w kratę
+clothing - odzież
+coat - płaszcz
+collar - kołnierz
+combat trousers - bojówki
+corset - gorset
+costume - kostium
+crease - kant
+cut - mankiet
+darned - zacerowany
+dress - sukienka
+dressing gown - szlafrok
+dungarees - ogrodniczki
+fashion - moda
+fashionable - modny
+flares - dzwony
+garter - podwiązka
+gloves - rękawiczki
+gymslip - bluza bez rękawów
+headscarf - chusta
+hipsters - biodrówki
+hood - kaptur
+in fashion - modny
+jacket - kurtka; żakiet
+jeans - dżinsy
+jumpsuit - kombinezon
+lapel - klapa
+leggings - leginsy
+lingerie - bielizna damska
+long underwear - kalesony
+long-sleeved - z długim rękawem
+maternity dress - suknia ciążowa
+menswear - odzież męska
+miniskirt - minispódniczka
+nightdress - koszula nocna
+out of fashion - niemodny
+outer garments - odzież wierzchnia
+overcoat - palto
+panties - majtki; figi
+pants - spodnie
+panty hose - rajstopy
+patterned - we wzorki
+petticoat - halka
+pleated skirt - spódnica plisowana
+pocket - kieszeń
+puff-sleeve - bufiasty rękaw
+pyjamas - pidżama
+raincoat - płaszcz przeciwdeszczowy
+shawl - szal
+shirt - koszula
+short-sleeved - z krótkim rękawem
+shrug - bolero
+size - rozmiar
+skirt - spódnica
+slacks - portki
+sleeve - rękaw
+sleeveless - bez rękawów
+socks - skarpetki
+spotted - w kropki
+stockings - pończochy
+striped - w paski
+suit - garnitur
+tanga - stringi
+tie - krawat
+tight - ciasny
+tights - rajstopy
+tracksuit - dres
+trousers - spodnie
+undershirt - podkoszulek
+underwear - bielizna
+uniform - mundur
+V-neck dekolt - wycięcie w serek
+vest - kamizelka
+waistcoat - kamizelka
+well-dressed - dobrze ubrany
+winter wear - odzież zimowa
+boots - buty zimowe (ciężkie)
+clogs - drewniaki; chodaki
+flat shoes - buty na płaskim obcasie
+flip-flops - japonki
+footwear - obuwie
+heels - obcasy
+high-heeled shoes - buty na wysokim obcasie
+instep - podbicie
+ladies' shoes - obuwie damskie
+low-heeled shoes - buty na niskim obcasie
+men's shoes - obuwie męskie
+moccasins - mokasyny
+plimsolls - tenisówki
+pumps - czółenka
+sandals - sandały
+shoe - but
+shoe brush - szczotka do butów
+shoe polish - krem do butów
+shoehorn - łyżka do butów
+shoelace - sznurowadło
+slip-ons - but wsuwany
+slipper - kapeć; pantofel
+slippers - kapcie
+sneaker - tenisówka
+sole - zelówka; podeszwa
+sports shoes - buty sportowe
+stylish - modny; elegancki
+tennis shoes - tenisówki
+toe - czubek buta
+trainers - trampki; adidasy
+waterproof boots - kalosze
+wellington boots - gumiaki
+winter boots - obuwie zimowe
+apple cake - szarlotka
+bag of sweets - torebka cukierków
+baguette - bagietka
+baking powder - proszek do pieczenia
+bar of chocolate - tabliczka czekolady
+barley - kasza jęczmienna
+biscuitt - herbatnik
+bread - chleb
+breadcrumbs - bułka tarta
+brown bread - ciemny chleb
+buckwheat - kasza gryczana
+bun - słodka bułeczka
+butter - masło
+buttermilk - maślanka
+cake - ciasto; ciastko
+can - puszka
+candy - cukierek; słodycze
+candy-floss - wata cukrowa
+castor sugar - cukier puder
+cereal - płatki zbożowe
+cereals - kasza
+cheese - ser
+cheesecake - sernik
+cookie - ciasteczko
+cornflakes - płatki kukurydziane
+croissant - croissant
+curd - twaróg
+dairy-goods - nabiał
+doughnut - pączek
+ewe's cheese - bryndza
+flour - mąka
+fresh - świeży
+gelatine - żelatyna
+groceries - artykuły spożywcze
+honey - miód
+ice cream - lody
+icing - lukier
+jam - dżem
+loaf of bread - bochenek chleba
+lollipop - lizak
+margarine - margaryna
+mayonnaise - majonez
+meringue - beza
+millet - kasza jaglana
+mustard - musztarda
+oatmeal - płatki owsiane
+parmesan cheese - parmezan
+pasta - makaron
+pastry - ciasto; ciastko
+pie - pasztet
+pudding - budyń
+rice - ryż
+roll - bułka
+salt - sól
+salty sticks - paluszki słone
+sandwich - kanapka
+scone - bułka drożdżowa
+semolina - kasza manna
+shortbread - herbatnik
+shortening - tłuszcz do pieczenia
+sponge-cake - biszkopt
+sugar - cukier
+tin - puszka
+vinegar - ocet
+yeast - drożdże
+yoghurt - jogurt
+bacon - boczek
+beef - wołowina
+chicken - kurczak
+chuck steak - karkówka
+fat - tłuszcz
+fatty - tłusty
+fried - smażony
+fried chicken - pieczony kurczak
+giblets - podroby
+ham - szynka
+kidney - nerka
+lamb - jagnięcina
+lamb chop - kotlet jagnięcy
+lean - chudy
+loin - polędwica
+meat - mięso
+meatball - klops
+mutton - baranina
+offal - podroby
+pork - wieprzowina
+pork chops - kotlety pieprzowe
+porkneck - karkówka wieprzowa
+poultry - drób
+rasher - plaster mięsa
+rib - żeberko
+roast - pieczeń
+roast beef - rostbef
+roasted - opiekany
+sausage - kiełbasa
+sirloin - polędwica
+spare-ribs - kotlety schabowe
+steak - stek
+stewed - duszony
+veal - cielęcina
+veal cutlet - sznycel
+venison - dziczyzna
+apple - jabłko
+apricot - morela
+aronia - aronia
+banana - banan
+blackberry - jeżyna; ostrężyna
+blackcurrant - czarna porzeczka
+cherry - wiśnia; czereśnia
+coconut - kokos; orzech kokosowy
+cranberry - żurawina
+date - daktyl
+elderberry - czarny bez
+fig - figa
+fresh - świeży
+fruit - owoc
+gooseberry - agrest
+grapefruit - grejpfrut
+greengage - rekloda
+hazelnut - orzech laskowy
+juicy - soczysty
+kiwi - kiwi
+kumquat - kumkwat
+lemon - cytryna
+lime - limonka
+lychee - liczi
+mandarine - mandarynka
+mango - mango
+nectarine - nektarynka
+nut - orzech
+orange - pomarańcza
+pawpaw - papaja
+peach - brzoskwinia
+peanut - orzech ziemny
+pear - gruszka
+pineapple - ananas
+plum - śliwka
+pomegranate - granat
+pomelo - pomelo
+quince - pigwa
+raisins - rodzynki
+raspberry - malina
+redcurrant - czerwona porzeczka
+ripe - dojrzały
+seed - pestka
+seedless - bez pestek
+strawberry - truskawka
+tangerine - mandarynka
+walnut - orzech włoski
+watermelon - arbuz
+wild strawberry - poziomka
+artichoke - karczoch
+asparagus - szparag
+aubergine - bakłażan; oberżyna
+bean - fasola
+beetrot - burak
+broad bean - bób
+broccoli - brokuł
+Brussels sprouts - kapusta brukselska
+cabbage - kapusta
+cabbage - kapusta
+carrot - marchew; marchewka
+cauliflower - kalafior
+celery - seler
+chickpea - ciecierzyca
+chives - szczypiorek
+clove of garlic - ząbek czosnku
+cress - rzeżucha
+cucumber - ogórek
+eggplant - bakłażan
+garlic - czosnek
+haricot - fasola szparagowa
+horseradish - chrzan
+kale - jarmuż
+kohlrabi - kalarepa
+leek - por
+lettuce - sałata
+onion - cebula
+parsley - pietruszka
+pattypan squash - patison
+peas - groszek
+pepper - papryka
+potato - ziemniak
+pumpkin - dynia
+radish - rzodkiewka
+red cabbage - kapusta czerwona
+rhubarb - rabarbar
+sorrel - szczaw
+spinach - szpinak
+sweet potato - batat
+tomato - pomidor
+turnip - rzepa
+vegetable - warzywo
+zuccini - cukinia
+alcohol - alkohol
+apple juice - sok jabłkowy
+beer - piwo
+beverages - napoje
+bitter beer - gorzkie piwo
+black tea - czarna herbata
+bootle - butelka
+buttermilk - maślanka
+champagne - szampan
+cherry liqueur - wiśniówka
+cider - jabłecznik
+cocoa - kakao
+coctail - koktajl (bezalkoholowy)
+coffee - kawa
+cognac - koniak
+cold - chłodny; zimny
+cow's milk - mleko krowie
+cup - filiżanka
+curd - zsiadłe mleko
+dark beer - piwo ciemne
+drink - drink
+drinking water - woda pitna
+dry wine - wino wytrawne
+ginger beer - piwo imbirowe
+goat's milk - mleko kozie
+green tea - zielona herbata
+ground coffee - kawa mielona
+herbal tea - herbata ziołowa
+hot chocolate - gorąca czekolada
+iced tea - herbata mrożona
+juice - sok
+lager - piwo leżakowe
+lemonade - lemoniada
+light beer - piwo jasne
+liqueur - likier
+milk - mleko
+mineral water - woda mineralna
+mint tea - herbata miętowa
+orangeade - oranżada
+pint of beer - kufel piwa
+red wine - wino czerwone
+rum - rum
+semi-dry wine - wino półwytrawne
+shake - koktajl (alkoholowy)
+shandy - piwo z lemoniadą
+skimmed milk - mleko odtłuszczone
+soft drinks - napoje bezalkoholowe
+sparkling - gazowany
+sparkling wine - wino musujące
+squash - zagęszczony sok owocowy
+still water - woda niegazowana
+strong coffee - mocna kawa
+table wine - wino stołowe
+tap water - woda z kranu
+tea - herbata
+tea bag - torebka herbaty
+tonic - tonik
+unsweetened tea - gorzka herbata
+vermouth - wermut
+vintage wine - wino z dobrego rocznika
+vodka - wódka
+white coffee - kawa z mlekiem
+to address a letter - zaadresować list
+airmail - poczta lotnicza
+cash on delivery - za zaliczeniem pocztowym
+deliver - dostarczyć
+envelope - koperta
+forwarding address - adres odbiorcy
+mail train - pociąg pocztowy
+pack - zapakować
+package - paczka
+parcel - paczka
+post - poczta
+post office - urząd pocztowy
+postage - opłata pocztowa
+postage stamp - znaczek pocztowy
+postal order - przekaz pocztowy
+postal worker - urzędnik pocztowy
+postcard - karta pocztowa
+postcode - kod pocztowy
+poste restante - poste restante
+postman - listonosz
+postwoman - listonoszka
+receiver - odbiorca
+registered letter - list polecony
+return address - adres zwrotny
+to send something COD - wysłać coś za zaliczeniem pocztowym
+sender - nadawca
+undelivered mail - niedostarczona przesyłka
+to unpack - rozpakować
+zip code - kod pocztowy
+to answer the phone - odebrać telefon
+answering machine - automatyczna sekretarka
+bad connection - słabe połączenie
+busy - zajęty
+to call back - oddzwonić
+to call - dzwonić
+call - rozmowa telefoniczna
+cordless phone - telefon bezprzewodowy
+coverage - zasięg
+to dial a number - wykręcić numer
+dialling code - prefiks
+display - wyświetlacz
+extension - numer wewnętrzny
+fax - faks; faksować
+hands-free kit - zestaw głośnomówiący
+hot line - gorąca linia
+local call - rozmowa miejscowa
+long-distance call - rozmowa międzymiastowa
+message - wiadomość
+mobile phone - telefon komórkowy
+operator - operator
+phone - telefon
+phone bill - rachunek za telefon
+phone book - książka telefoniczna
+phone card - karta telefoniczna
+phone conversation - rozmowa telefoniczna
+phone number - numer telefonu
+to pick up the phone - odebrać telefon
+receiver - słuchawka
+to ring off - odłożyć słuchawkę
+roaming - roaming
+to send an SMS - wysłać sms
+subscriber - abonent
+telephone charges - opłaty
+telephone line - linia telefoniczna
+toll-free number - numer bezpłatny

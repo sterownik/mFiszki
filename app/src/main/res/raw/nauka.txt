@@ -1,0 +1,582 @@
+to advance a thesis - wysuwać tezę
+to advance arguments for... - przytaczać argumenty za...
+applied sciences - nauki stosowane
+argument - argument
+to come to a conclusion - dojść do wniosku
+conclusion - wniosek
+discoverer - odkrywca
+discovery - odkrycie
+to do an experiment - przeprowadzić eksperyment
+experimental - eksperymentalny; próbny
+experimental results - wyniki eksperymentu
+hypothesis - hipoteza
+in theory - w teorii
+instruments - przyrządy; urządzenia
+invention - wynalazek
+inventor - wynalazca
+lab - laboratorium
+laboratory - laboratorium
+microscope - mikroskop
+to prove - dowodzić; udowadniać
+publication - publikacja
+research - badanie; badania
+researcher - badacz
+science - nauka
+scientific - naukowy
+scientist - naukowiec
+social sciences - nauki społeczne
+to substantiate - uzasadniać; uzasadnić
+theorist - teoretyk
+theory - teoria
+thesis - teza
+unknown - nieznany
+astronomical object - ciało niebieskie
+astronomy - astronomia
+aurora - zorza polarna
+black dwarf - czarny karzeł
+black hole - czarna dziura
+celestial pole - biegun niebieski
+celestial sphere - sfera niebieska
+comet tail - warkocz komety
+constellation - gwiazdozbiór
+dark matter - ciemna materia
+dwarf planet - planeta karłowata
+Earth - Ziemia
+eclipse - zaćmienie
+ecliptic - ekliptyka
+galaxy - galaktyka
+gravitation - grawitacja
+Jupiter - Jowisz
+light-year - rok świetlny
+Mercury - Merkury
+Moon - Księżyc
+nebula - mgławica
+outer space - przestrzeń kosmiczna
+planet - planeta
+planetary system - układ planetarny
+polar night - noc polarna
+Solar eclipse - zaćmienie Słońca
+Solar System - Układ Słoneczny
+solar wind - wiatr słoneczny
+space shuttle - wahadłowiec kosmiczny
+star - gwiazda
+star cluster - gromada gwiazd
+Sun - Słońce
+supergiant - nadolbrzym
+telescope - teleskop
+universe - wszechświat
+Venus - Wenus
+acceleration - przyspieszenie
+angular acceleration - przyspieszenie kątowe
+angular velocity - prędkość kątowa
+atom - atom
+atomic - atomowy
+centrifugal force - siła odśrodkowa
+centripetal acceleration - przyspieszenie dośrodkowe
+to convert heat into work - zamienić ciepło na pracę
+dynamics - dynamika
+energy - energia
+force - siła
+frame of reference - układ odniesienia
+heat - ciepło
+impulse - popęd
+kinetic energy - energia kinetyczna
+mass - masa
+matter - materia
+momentum - pęd
+motion - ruch
+net force - siła wypadkowa
+Newton's laws of motion - zasady dynamiki Newtona
+physical - fizykalny; dotyczący fizyki
+physicist - fizyk
+physics - fizyka
+potential energy - energia potencjalna
+quantum mechanics - mechanika kwantowa
+scalar - skalar
+second law of thermodynamics - druga zasada termodynamiki
+space-time - czasoprzestrzeń
+speed - prędkość
+speed of light - prędkość światła
+statics - statyka
+theory of relativity - teoria względności
+third law of thermodynamics - trzecia zasada termodynamiki
+torque - moment siły
+trajectory - tor
+vacuum - próżnia
+vector - wektor
+velocity - prędkość
+wave - fala
+work - praca
+acid - kwas
+atom - atom
+atomic mass - masa atomowa
+atomic nucleus - jądro atomowe
+atomic number - liczba atomowa
+atomic radius - promień atomowy
+base - zasada
+biochemistry - biochemia
+chemical compound - związek chemiczny
+chemical process - proces chemiczny
+chemical reaction - reakcja chemiczna
+chemist - chemik
+chemistry - chemia
+covalent bond - wiązanie kowalencyjne
+crystallization - krystalizacja
+electrolyte - elektrolit
+element - pierwiastek
+hydrocarbon - węglowodór
+ionic bond - wiązanie jonowe
+isotope - izotop
+liquid - ciecz
+liquid crystal - ciekły kryształ
+metalloid - półmetal
+molecule - cząsteczka; molekuła
+neutron - neutron
+nitric acid - kwas azotowy
+noble gas - gaz szlachetny
+nuclide - nuklid
+organic chemistry - chemia organiczna
+oxide - tlenek
+oxidizing agent - utleniacz
+periodic table - układ okresowy
+salt - sól
+solid - ciało stałe
+solubility - rozpuszczalność
+solution - roztwór
+thermal conductivity - przewodność cieplna
+transition metal - metal przejściowy
+viscosity - lepkość
+antimony - antymon
+argon - argon
+arsenic - arsen
+astatine - astat
+barium - bar
+beryllium - beryl
+bismuth - bizmut
+boron - bor
+cadmium - kadm
+caesium - cez
+calcium - wapń
+copper - miedź
+fluorine - fluor
+gallium - gal
+gold - złoto
+helium - hel
+hydrogen - wodór
+iodine - jod
+iron - żelazo
+krypton - krypton
+lead - ołów
+lithium - lit
+magnesium - magnez
+manganese - mangan
+mercury - rtęć
+molybdenum - molibden
+neptunium - neptun
+nickel - nikiel
+niobium - niob
+nitrogen - azot
+osmium - osm
+oxygen - tlen
+plutonium - pluton
+polonium - polon
+potassium - potas
+radium - rad
+radon - radon
+rhenium - ren
+rhodium - rod
+rubidium - rubid
+selenium - selen
+silicon - krzem
+silver - srebro
+sodium - sód
+strontium - stront
+sulfur - siarka
+tantalum - tantal
+tin - cyna
+titanium - tytan
+uranium - uran
+vanadium - wanad
+yttrium - itr
+zinc - cynk
+zirconium - cyrkon
+aberration - aberracja
+Airy disc - plamka Airy'ego
+angle of incidence - kąt padania
+astigmatism - astygmatyzm
+coma - koma
+convergence - zbieżność
+dioptre - dioptria
+dispersion of lights - rozproszenie światła
+distortion - dystorsja
+focal length - ogniskowa
+focus - ognisko
+infrared - podczerwień
+laser - laser
+lens - soczewka
+light - światło
+magnification - powiększenie
+mirror - lustro
+molar refraction - refrakcja molowa
+optical power - zdolność skupiająca
+optics - optyka
+optometry - optometria
+phoropter - foropter
+prism - pryzmat
+ray - promień świetlny
+real image - obraz rzeczywisty
+reflection - odbicie
+reflectivity - współczynnik odbicia
+refraction - refrakcja
+refractive error - ametropia
+Snell's law - prawo Snelliusa
+telescope - teleskop
+ultraviolet - ultrafiolet
+virtual image - obraz pozorny
+absolute value - wartość bezwzględna
+intersection - sekcja wspólna
+addition - dodawanie
+linear algebra - algebra liniowa
+algorithm - algorytm
+linear function - funkcja liniowa
+arithmetic - arytmetyka
+logarithm - logarytm
+arithmetic progression - ciąg arytmetyczny
+mathematician - matematyk
+basis point - punkt bazowy
+mathematics - matematyka
+Cartesian product - iloczyn kartezjański
+multiplication - mnożenie
+combinatorics - kombinatoryka
+multiplication table - tabliczka mnożenia
+constant - stała
+natural numbers - liczby naturalne
+digit - cyfra
+per mill - promil
+division - dzielenie
+perfect number - liczba doskonała
+equation - równanie
+prime number - liczba pierwsza
+exponentiation - potęgowanie
+probability theory - teoria prawdopodobieństwa
+factorial - silnia
+product - iloczyn
+five minus three equals two - pięć minus trzy równa  się dwa
+quadratic function - funkcja kwadratowa
+quotient - iloraz
+five times three equals fifteen - pięć razy trzy równa
+recurrence relation - równanie rekurencyjne się piętnaście
+rounding - zaokrąglanie
+fraction - ułamek
+set - zbiór
+greatest common divisor - największy wspólny
+subset - pozbiór
+subtraction - odejmowanie
+injective function - funkcja różnowartościowa
+three plus five equals eight - trzy plus pięć równa
+integral equation - równanie całkowe
+acute-angled triangle - trójkąt ostrokątny
+angle - kąt
+circle - okrąg
+cone - stożek
+coordinate system - układ współrzędnych
+cross product - iloczyn wektorowy
+cube - sześcian
+cuboid - prostopadłościan
+diagonal - przekątna
+differential geometry - geometria różniczkowa
+egde - krawędź
+geometry - geometria
+internal angle - kąt wewnętrzny
+kite - deltoid
+oval - owal
+parallelism - równoległość
+parallelogram - równoległobok
+perimeter - obwód
+projective geometry - geometria rzutowa
+Pythagorean theorem - twierdzenie Pitagorasa
+quadrilateral - czworokąt
+rectangle - prostokąt
+right-angled triangle - trójkąt prostokątny
+side - bok
+spherical geometry - geometria sferyczna
+square - kwadrat
+surface area - pole powierzchni
+symmetry - symetria
+vertex - wierzchołek
+volume - objętość
+autosome - autosom
+cell - komórka
+cell division - podział komórki
+cell nucleus - jądro komórkowe
+chromatid - chromatyda
+chromosomal inversion - inwersja chromosomowa
+chromosome - chromosom
+cloning - klonowanie
+codon - kodon
+crossbreeding - krzyżowanie
+cytogenetics - cytogenetyka
+deletion - delecja
+DNA replication - replikacja DNA
+DNA sequencing - sekwencjonowanie DNA
+gene cluster - klaster genetyczny
+genetic code - kod genetyczny
+genetic disorder - choroba genetyczna
+genetic engineering - inżynieria genetyczna
+genetics - genetyka
+genome - genom
+genotype - genotyp
+heredity - dziedziczność
+heritability - odziedziczalność
+interrupted gene - gen podzielony
+karyotype - kariotyp
+mutation - mutacja
+nucleosome - nukleosom
+population genetics - genetyka populacji
+prenatal diagnosis - badania prenatalne
+reading frame - ramka odczytu
+ribosome - rybosom
+telomere - telomer
+area - obszar; teren
+atmosphere - atmosfera
+biosphere - biosfera
+continental - kontynentalny
+cultural landscape - krajobraz kulturowy
+equator - równik
+geography - geografia
+geosphere - geosfera
+hydrosphere - hydrosfera
+latitude - szerokość geograficzna
+litosphere - litosfera
+longitude - długość geograficzna
+map - mapa
+map projection - odwzorowanie kartograficzne
+political geography - geografia polityczna
+social geography - geografia społeczna
+solar constant - stała słoneczna
+subcontinent - część kontynentu
+terrain - teren
+territorial waters - wody terytorialne
+territory - terytorium
+the tropic of Cancer - zwrotnik Raka
+time zone - strefa czasowa
+topographic map - mapa topograficzna
+acre - akr
+ampere - amper
+are - ar
+bar - bar
+barrel - baryłka
+candela - kandela
+centimetre - centymetr
+coulomb - kulomb
+cubic metre - metr sześcienny
+degree Celsius - stopień Celsjusza
+foot - stopa
+gallon - galon
+hectare - hektar
+hertz - herc
+hour - godzina
+inch - cal
+joule - dżul
+kelvin - kelwin
+kilogram - kilogram
+litre - litr
+lumen - lumen
+metre - metr
+metric system - system metryczny
+mile - mila
+minute - minuta
+minute of arc - minuta kątowa
+mole - mol
+morgen - morga
+nautical mile - mila morska
+newton - niuton
+ohm - ohm
+ounce - uncja
+pascal - paskal
+quintal - kwintal
+radian - radian
+second - sekunda
+span - piędź
+square metre - metr kwadratowy
+steradian - steradian
+tonne - tona
+unit - jednostka
+volt - wolt
+watt - wat
+yard - jard
+archaeological context - kontekst archeologiczny
+archaeological culture - kultura archeologiczna
+archaeological plan - plan archeologiczny
+archaeological site - stanowisko archeologiczne
+archaeological survey - prospekcja archeologiczna
+archaeologist - archeolog
+archaeology - archeologia
+area excavation - wykopaliska szerokopłaszczyznowe
+artefact; artifact - artefakt
+backfill - zasypisko obiektów archeologicznych
+biofact - biofakt
+cave - jaskinia
+cultural landscape - krajobraz kulturowy
+earthen banks - wały ziemne
+ecofact - ekofakt
+environmental archaeology - archeologia środowiskowa
+excavation - wykopaliska
+feature - obiekt archeologiczny
+fills - wypełniska obiektów archeologicznych
+hallstatt culture - kultura halsztacka
+Linear Pottery culture - kultura ceramiki wstęgowej
+lusatian culture - kultura łużycka
+occupation layer - warstwa osadnicza
+posthole - dół posłupowy
+processual archaeology - archeologia procesualna
+souterrain ware - ceramika podziemi
+tumulus culture - kultura mogiłowa
+urnfield culture - kultura pól popielnicowych
+adaptation - adaptacja
+anthropological - antropologiczny
+anthropologist - antropolog
+anthropology - antropologia
+civilization - cywilizacja
+cultural heritage - dziedzictwo kulturowe
+cultural materialism - materializm kulturowy
+culture - kultura
+customs - zwyczaje
+Darwin's theory - teoria Darwina
+ethnography - etnografia
+ethnology - etnologia
+evolution - ewolucja
+evolutionary - ewolucyjny
+folk art - sztuka ludowa
+folk music - muzyka ludowa
+folklore - folklor
+human - ludzki
+humans - ludzie
+migration - migracja
+natural selection - selekcja naturalna
+physical anthropology - antropologia fizyczna
+post-materialism - postmaterializm
+ritual - rytuał; obrzęd
+secularism - sekularyzm
+social anthropology - antropologia społeczna
+survival of the fittest - przeżycie najsilniejszych
+symbol - symbol
+symbolic(ally) - symboliczny
+to symbolize - symbolizować
+taboo - tabu
+totem - totem
+aesthetics - estetyka
+analysis - analiza
+argument - argument
+being - byt
+body and mind - ciało i dusza
+causality - przyczynowość
+cause and effect - przyczyna i skutek
+to define - definiować
+definition - definicja
+empirical - empiryczny
+ethics - etyka
+evil - zło
+experience - doświadczenie
+free will - wolna wola
+gnosis - gnoza
+good - dobro
+hermeneutics - hermeneutyka
+idea - myśl; idea
+matter - materia
+metaphysics - metafizyka
+moral values - wartości moralne
+noumenon - rzecz sama w sobie
+ontology - ontologia
+philosopher - filozof
+philosophical - filozoficzny
+philosophize - filozofować
+philosophy - filozofia
+pragmatism - pragmatyzm
+rational - racjonalny
+rationalism - racjonalizm
+sceptic - sceptyk
+theory - teoria
+to think - myśleć
+thinking - myślenie
+time and space - czas i przestrzeń
+true - prawdziwy
+truth - prawda
+to understand - rozumieć
+applied psychology - psychologia stosowana
+behaviour - zachowanie
+cognition - procesy poznawcze
+cognitive psychology - psychologia poznawcza
+cognitive science - kognitywistyka
+condition - warunek
+consciousness - świadomość
+dream - sen
+emotion - emocja
+instinct - instynkt
+introspection - introspekcja
+libido - libido
+mind - umysł
+motivation - motywacja
+nightmare - koszmar (nocny)
+perception - postrzeganie; percepcja
+personality disorder - zaburzenie osobowości
+personality psychology - psychologia osobowości
+preconscious - przedświadomość
+psyche - psychika
+psychoanalysis - psychoanaliza
+psychological - psychologiczny
+psychologist - psycholog
+psychology - psychologia
+psychotherapist - psychoterapeuta
+stimulus - bodziec
+subconscious - podświadomy
+subconsciousness - podświadomość
+the process of thought - procesy poznawcze
+thought - myślenie; poznanie
+unconscious - nieświadomy
+acculturation - akulturacja
+altruism - altruizm
+assimilation - asymilacja
+behaviour - zachowanie
+civil disobedience - nieposłuszeństwo obywatelskie
+civil society - społeczeństwo obywatelskie
+cultural diffusion - dyfuzja kulturowa
+culture shock - szok kulturowy
+ethnic group - grupa etniczna
+fanaticism - fanatyzm
+functional illiteracy - analfabetyzm funkcjonalny
+ghetto - getto
+global village - globalna wioska
+globalization - globalizacja
+hierarchy - hierarchia
+homeless - bezdomny
+homelessness - bezdomność
+homo sovieticus - homo sovieticus
+ideology - ideologia
+illiteracy - analfabetyzm
+integration - integracja
+local community - społeczność lokalna
+mass society - społeczeństwo masowe
+middle class - klasa średnia
+nation - naród
+norm - norma
+peer group - grupa rówieśnicza
+primary group - grupa pierwotna
+proletariat - proletariat
+secondary group - grupa wtórna
+social alienation - alienacja
+social class - klasa społeczna
+social communication - komunikacja społeczna
+social contract - umowa społeczna
+social development - rozwój społeczny
+social fact - fakt społeczny
+social group - grupa społeczna
+social identity - tożsamość społeczna
+social interaction - interakcja społeczna
+social movement - ruch społeczny
+social order - ład społeczny
+social relation - stosunek społeczny
+social structure - struktura społeczna
+social unit - jednostka społeczna
+socialization - socjalizacja
+society - społeczeństwo

@@ -1,0 +1,352 @@
+assistant referee - sędzia liniowy
+away team - goście
+bottom of the table - strefa spadkowa
+bronze medal - brązowy medal
+champion - mistrz
+championship - mistrzostwa
+close defeat - niska porażka
+coach - trener
+coin toss - rzut monetą
+competition - rywalizacja; zawody
+competitor - zawodnik
+cup - puchar
+dark horse - czarny koń
+defeat - porażka
+to defend - bronić się
+derby - derby
+disqualification - dyskwalifikacja
+equalize - wyrównać
+to extend the lead - powiększyć prowadzenie
+fair result - sprawiedliwy wynik
+fan - fan
+fanatical - fanatyczny
+final whistle - końcowy gwizdek
+finalist - finalista
+foul - faul
+foul suffered - faulowany
+fourth official - sędzia techniczny
+friendly match - mecz towarzyski
+gold medal - złoty medal
+group of death - grupa śmierci
+group stage draw - losowanie grup
+hard-earned victory - ciężko wywalczona wygrana
+home team - gospodarze
+indirect free kick - rzut wolny pośredni
+league - liga
+linesman - sędzia liniowy
+to loose - przegrać
+loser - przegrany
+to loss - przegrać
+mascot - maskotka
+match - mecz
+medal table - klasyfikacja medalowa
+medalist - medalista
+Mexican wave - meksykańska fala
+national team - kadra narodowa
+numerical advantage - przewaga liczebna
+Olympic flag - flaga olimpijska
+Olympic flame - ogień olimpijski
+Olympic Stadium - stadion olimpijski
+Olympic torch - znicz olimpijski
+opening ceremony - ceremonia otwarcia
+opponent - przeciwnik
+outsider - outsider
+Paralympic Games - paraolimpiada
+player - zawodnik; gracz
+promoted team - beniaminek
+quarter-final - ćwierćfinał
+record attendance - rekordowa widownia
+referee - sędzia; arbiter
+reigning champions - obrońca tytułu
+remis - draw
+round - kolejka
+season - sezon
+semi-final - półfinał
+silver medal - srebrny medal
+spectator - widz
+sportsman - sportowiec (mężczyzna)
+sportswoman - sportowiec (kobieta)
+statistics - statystyki
+Summer Olympic Games - letnie Igrzyska Olimpijskie
+supporter - kibic
+table - tabela
+to take the lead - objąć prowadzenie
+teammate - kolega z drużyny
+technique - technika
+ticket out - konik (sprzedawca biletów)
+trophy - trofeum
+two-legged match - dwumecz
+underdog - outsider
+to warm-up - rozgrzewać się
+whistle - gwizdek
+to win - wygrać
+Winter Olympic Games - zimowe Igrzyska Olimpijskie
+world champion - mistrz świata
+alpine skiing - narciarstwo alpejskie
+archery - łucznictwo
+athletics - lekkoatletyka
+badminton - badminton
+basketball - koszykówka
+biathlon - biathlon
+bobsleigh - bobsleje
+boxing - boks
+canoeing - kajakarstwo
+cricket - krykiet
+cross-country skiing - biegi narciarskie
+curling - curling
+cycling - kolarstwo
+diving - skoki do wody
+equestrian - jeździectwo
+fencing - szermierka
+field hockey - hokej na trawie
+figure skating - łyżwiarstwo figurowe
+football - piłka nożna
+freestyle skiing - narciarstwo dowolne
+golf - golf
+gymnastics - gimnastyka
+handball - piłka ręczna
+ice hockey - hokej na lodzie
+judo - judo
+luge - saneczkarstwo
+modern pentathlon - pięciobój nowoczesny
+nordic combined - kombinacja norweska
+rowing - wioślarstwo
+rugby - rugby
+sailing - żeglarstwo
+shooting - strzelectwo
+skeleton - skeleton
+ski jumping - skoki narciarskie
+soccer(AM) - piłka nożna
+swimming - pływanie
+synchronized swimming - pływanie synchroniczne
+table tennis - tenis stołowy
+taekwondo - taekwondo
+tennis - tenis
+track cycling - kolarstwo torowe
+triathlon - triathlon
+volleyball - siatkówka
+water polo - piłka wodna
+weightlifting - podnoszenie ciężarów
+wrestling - wrestling
+12th man - dwunasty zawodnik (publiczność)
+6-yard box - pole bramkowe
+advantage rule - przywilej korzyści
+armband - opaska kapitana
+award penalty - przyznać rzut karny
+away match - mecz wyjazdowy
+ball - piłka
+ball posession - posiadanie piłki
+banana kick - podkręcony strzał
+bumpy pitch - nierówne boisko
+clean sheet - czyste konto (o bramkarzu)
+consolation goal - bramka honorowa
+corner kick - rzut rożny
+crossbar - poprzeczka
+curling shot - podkręcony strzał
+deep ball - długie podanie
+defender - obrońca
+to direct the wall - ustawiać mur
+extra time - dogrywka
+far post - długi róg
+first eleven - pierwsza jedenastka
+flying save - parada
+football (BRIT) - piłka nożna
+football club - klub piłkarski
+free kick - rzut wolny
+full-back - boczny obrońca
+goal - gol; bramka; trafienie
+goal line - linia bramkowa
+goalie - bramkarz
+goalkeeper - bramkarz
+golden goal - złota bramka
+grass - murawa
+half-way line - linia środkowa
+hat-trick - hat-trick
+header - główka
+home match - mecz u siebie
+in top corner - w okienko
+injury time - doliczony czas gry
+keeper - bramkarz
+keeper gloves - rękawice bramkarskie
+keepie-uppie - żonglerka piłką
+kick-off - rozpoczęcie gry
+long shot - strzał z daleka
+midfielder - pomocnik
+move - akcja
+near post - krótki róg
+to nutmeg - założyć siatkę
+offside - spalony
+offside trap - pułapka ofsajdowa
+outfield player - gracz z pola
+own goal - bramka samobójcza
+penalty area - pole karne
+penalty spot - wapno; punkt rzutu karnego
+pitch - boisko
+player - zawodnik
+playmaker - rozgrywający
+post - słupek
+to pull the ball wide - strzelić niecelnie
+to punch clear - piąstkować
+red card - czerwona kartka
+set piece - stały fragment gry
+shot on target - celny strzał; strzał na bramkę
+side line - linia boczna
+soccer(AM) - piłka nożna
+stadium - stadion
+starting eleven - wyjściowa jedenastka
+striker - napastnik
+studs - korki
+substitute - rezerwowy
+substitution - zmiana
+to take a corner kick - wykonać rzut rożny
+to take throw-in - wrzucać z autu
+throw in - aut
+touch-line - linia boczna
+volley - wolej
+winger - skrzydłowy
+woodwork - poprzeczka
+yellow card - żółta kartka
+ace - as
+backhand - bekhend
+ball - piłeczka
+baseline - linia końcowa
+chop - czop
+cross - kros
+Davis Cup - puchar Davisa
+drive - drajw
+eastern - chwyt wschodni
+forced error - wymuszony błąd
+forehand - forhend
+game - gem
+half-volley - półwolej
+lob - lob
+match point - meczbol
+out - aut
+passing shot - minięcie
+racket - rakieta
+serve - serwis; serw
+set - set
+set point - setbol
+slice - slajs
+smash - smecz
+tennis - tenis
+tie-break - tie break
+timing - tajming
+tournament - turniej
+unforced error - niewymuszony błąd
+volley - wolej
+weastern - chwyt zachodni
+basket - kosz
+basketball - koszykówka
+basketball court - boisko do koszykówki
+bounce pass - podanie kozłem
+buzzer beater - celny rzut równo z końcową syreną
+carrying - piłka niesiona
+double team - podwojenie
+draft - wybór zawodników
+to draw a foul - wymusić faul
+dribbling - drybling
+fast break - kontratak
+free throw - rzut wolny
+full court press - obrona na całym boisku
+half court offense - atak pozycyjny
+hook - rzut hakiem
+jumper - rzut z wyskoku
+key - pole trzech sekund
+man-to-man defense - krycie indywidualne
+moving screen - ruchoma zasłona
+overtime - dogrywka
+point guard - rozgrywający
+rim - obręcz
+shooting guard - rzucający obrońca
+slam dunk - wsad
+small forward - niski skrzydłowy
+to spread the floor - rozciągać grę
+streak - seria
+streetball - koszykówka uliczna
+three-point line - linia rzutów za 3 punkty
+travelling - błąd kroków
+turnover - strata
+2 man advantage - przewaga dwóch zawodników
+attacking zone - strefa ataku
+blue line - linia niebieska
+boards - banda
+butt end - końcówka kija
+butt-ending - zahaczanie kijem
+catcher - łapaczka
+catching glove - łapaczka
+change on the fly - zmiana w lodzie
+crossbar - poprzeczka
+defenceman - obrońca
+defensive zone - strefa obrony
+delay of game - opóźnianie gry
+face-off - wznowienie
+fighting - bójka
+freezing the puck - zamrożenie krążka
+game misconduct - wykluczenie z gry
+goal crease - pole bramkowe
+goal judge - sędzia bramkowy
+goal line - linia bramkowa
+helmet - kask
+high stick - zagranie wysokim kijem
+hockey stick - kij hokejowy
+ice hockey - hokej na lodzie
+ice resurfacer - rolba
+icing - uwolnienie
+linesman - sędzia liniowy
+match penalty - kara meczu
+minor penalty - kara mniejsza
+neutral zone - strefa neutralna
+offside - spalony
+penalty - kara
+penalty bench - ławka kar
+penalty shot - rzut karny
+period - tercja
+players bench - ławka rezerwowych
+powerplay - przewaga
+puck - krążek
+red line - linia czerwona
+rink - lodowisko
+scorekeepers bench - ławka sędziowska
+short-handed - osłabienie
+Stanley cup - Puchar Stanleya
+tripping - podcięcie
+baton - pałeczka (w sztafecie)
+baton exchange - przekazanie pałeczki
+decathlon - dziesięciobój
+discus - dysk
+discus throw - rzut dyskiem
+discus-thrower - dyskobol
+distance - odległość
+false starting - falstart
+finishing line - linia mety
+hammer throw - rzut młotem
+height - wysokość
+heptathlon - siedmiobój
+high jump - skok wzwyż
+hurdling - bieg przez płotki
+javelin - oszczep; rzut oszczepem
+javelin throw - rzut oszczepem
+javelin thrower - oszczepnik; oszczepniczka
+lane - tor
+long jump - skok w dal
+losing the baton - strata pałeczki
+marathon - maraton
+pole - tyczka
+pole vault - skok o tyczce
+race - bieg; wyścig
+relay race - bieg sztafet
+to run - biec
+run - bieg
+run-up - rozbieg
+runner - biegacz
+running - bieg; bieganie
+shot put - pchnięcie kulą
+sprint - sprint
+sprinter - sprinter
+starting line - linia startowa
+steeplechase - bieg z przeszkodami
+track - bieżnia
+triple jump - trójskok
+vaulter - tyczkarz
+walking - chód

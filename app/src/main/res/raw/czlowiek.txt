@@ -1,0 +1,503 @@
+blood - krew
+body - ciało
+bone - kość
+brain - mózg
+cheek - policzek
+ear - ucho
+elbow - łokieć
+eye - oko
+eyebrow - brew
+eyelid - powieka
+face - twarz
+fist - pięść
+foot - stopa
+forehead - czoło
+gum - dziąsło
+hair - włosy
+hand - ręka
+head - głowa
+heart - serce
+hip - biodro
+knee - kolano
+larynx - krtań
+leg - noga
+lip - warga
+liver - wątroba
+lung - płuco
+mouth - usta
+muscle - mięsień
+nail - paznokieć
+naval - pępek
+neck - szyja
+nose - nos
+palm - dłoń
+part of the body - część ciała
+prostate - prostata
+rib - żebro
+skin - skóra
+stomach - żołądek
+thigh - udo
+thyroid - tarczyca
+tongue - język
+tooth - ząb
+vein - żyła
+accurate - dokładny
+aggressive - agresywny
+ambitious - ambitny
+bore - nudziarz
+boring - nudny
+carefree - beztroski
+character - charakter
+cheeky - bezczelny
+clever - zdolny
+conceited - zarozumiały
+courageous - odważny
+coward - tchórz
+cowardly - tchórzliwy
+cruel - okrutny
+dishonest - nieuczciwy
+faithful - wierny
+feature - cecha
+friendly - przyjazny
+full of energy - energiczny
+generous - wielkoduszny
+genuine - szczery
+honest - uczciwy
+incurable optimist - niepoprawny optymista
+intellectual - intelektualista
+introvert - introwertyk
+lazy - leniwy
+lazybones - leń
+liar - kłamca
+mean - skąpy
+modest - skromny
+nervous - nerwowy
+nice - miły
+non-stop talker - gaduła
+nosy - wścibski
+optimist - optymista
+patient - cierpliwy
+personality - osobowość
+pessimist - pesymista
+pleasant - przyjemny
+polite - uprzejmy; grzeczny
+responsible - odpowiedzialny
+shy - nieśmiały
+sociable - towarzyski
+strange - dziwny
+stubborn - uparty
+stupid - głupi
+tactful - taktowny
+tidy - porządny
+tolerant - tolerancyjny
+truthful - prawdomówny
+warm-hearted - serdeczny
+a bit mad - lekko stuknięty
+absent minded - roztargniony
+abstemious - wstrzemięźliwy
+acquisitive - zachłanny
+alarmist - panikarz
+aloof - powściągliwy
+aloofness - powściągliwość
+amiable - miły; uprzejmy
+appointments are deceptive - pozory mylą
+arrogance - arogancja
+arrogant - arogancki
+avarice - skąpstwo
+avaricious - skąpy
+bad guy - czarny charakter
+barefaced - bezczelny; bezwstydny
+bone idle - leń śmierdzący
+brash - zuchwały
+brazen - bezwstydny; bezczelny
+to brazen it out - nadrabiać tupetem
+callous - bezduszny
+callousness - bezduszność
+capricious - kapryśny
+carefree - beztroski
+cast of mind - uosobienie; natura
+conceit - zarozumiałość
+conceited - zarozumiały
+courage - odwaga
+courageous - odważny
+dastardly - nikczemny; podły
+devious - przebiegły
+dishonest - nieuczciwy
+dishonesty - nieuczciwość
+dotty - stuknięty
+effeminate - zniewieściały
+effusive - wylewny
+evil incarnate - wcielenie zła
+forbearing - wyrozumiały
+fortitude - hart ducha
+full of ideas - pełen pomysłów
+full of oneself - zarozumiały
+good-for nothing - nicpoń
+good-natured - dobroduszny
+grasping - zachłanny
+guileless - prostoduszny
+guilty conscience - nieczyste sumienie
+gullibility - łatwowierność
+gullible - łatwowierny
+headstrong - zawzięty; nieustępliwy
+hot blooded - krewki
+hot tempered - porywczy
+idealist - idealista
+idleness - próżniactwo
+idler - próżniak
+ill-natured - złośliwy
+impressionable - łatwowierny; bezkrytyczny
+imprudent - nieroztropny
+indecisive - niezdecydowany
+to judge by appointmens - sądzić po pozorach
+kind-hearted - życzliwy
+kindred spirit - bratnia dusza
+laziness - lenistwo
+loner - samotnik
+man of few words - małomówny
+maverick - indywidualista; indywidualistka
+merciless - bezlitosny
+mindless - bezmyślny
+miserly - skąpy
+modest - skromny
+modesty - skromność
+nosy - wścibski
+prig - zarozumialec
+ratty - nerwowy; popędliwy
+reckluse - odludek
+resourceful - pomysłowy; zaradny
+resourcefulness - pomysłowość; zaradność
+revengeful - mściwy
+ruthless - bezwzględny
+ruthlessness - bezwzględność
+scanty - skąpy
+screwy - pokręcony
+selfish - samolubny
+selfishness - samolubstwo
+selfless - bezinteresowny
+sensibility - wrażliwość
+sharp-tempered - porywczy; wybuchowy
+shrewd - przebiegły; sprytny
+shy - nieśmiały
+shyly - nieśmiało
+shyness - nieśmiałość
+sincere - szczery
+sincerity - szczerość
+Sleeping Beauty - Śpiąca Królewna
+snappy - zgryźliwy
+spiteful - złośliwy; zawzięty
+surly - opryskliwy
+tenacious - uparty; nieustępliwy
+tenacity - upartość; nieustępliwość
+to treat sb like dirt - traktować kogoś jak szmatę
+vengeful - mściwy
+vindictive - mściwy
+warm-hearted - serdeczny
+well-mannered - dobrze wychowany
+a man of medium height - mężczyzna średniego wzrostu
+a week's growth of beard - tygodniowy zarost
+appearance - wygląd
+athletic - wysportowany
+attractive - atrakcyjny
+auburn hair - kasztanowe włosy
+bags under the eyes - worki pod oczami
+baldness - łysina
+bandy-legged - krzywonogi
+be bleary-eyed - mieć zaczerwienione oczy
+be bow-legged - mieć pałąkowate nogi
+beard - broda
+beautiful - piękny; piękna
+become thin - chudnąć
+black and blue - posiniaczony
+blackhead - wągier; zaskórnik
+blond - blondyn
+blonde - blondynka
+braid - warkoczyk
+brawn - tężyzna; krzepa
+charm - wdzięk
+chubby - pucołowaty
+corpulent - korpulentny
+dark hair - ciemne włosy
+to depilate - depilować
+to do one's hair - układać sobie włosy
+elegant - elegancki
+facial expression - wyraz twarzy
+fair-haired - jasnowłosy
+fat - gruby
+feature - cecha
+figure - figura
+freckle - pieg
+freckled - piegowaty
+fringe - grzywka
+frizzy hair - kręcone włosy
+full in the face - pełna twarz
+gain weight - przybrać na wadze
+girl with blue eyes - dziewczyna o niebieskich oczach
+good-looking - przystojny
+grace - gracja
+handsome - przystojny
+he has a black eye - ma podbite oko
+he looks his age - wygląda na swoje lata
+height - wzrost
+high forehead - wysokie czoło
+his hairline was receding - robiły mu się zakola
+hump - garb
+hunchback - garbus
+hunched - zgarbiony
+let one's hair down - rozpuszczać włosy
+long-haired - długowłosy
+look smart - wyglądać elegancko 
+look tired - wyglądać na zmęczonego
+look-alike - sobowtór
+looks don't count - uroda to nie wszystko
+to lose one's (good) looks - tracić na urodzie
+to lose weight - tracić na wadze
+make-up - makijaż
+matronly - przy kości
+moustache - wąs
+neatness - schludność; elegancja
+obese - otyły
+obesity - otyłość
+of medium build - średniej budowy
+outward appearance - wygląd zewnętrzny
+overweight - nadwaga
+pale - blady
+pimple - pryszcz
+pimply - pryszczaty
+plait - warkocz
+ponytail - koński ogon
+pretty - ładny
+protruding ears - odstające uszy
+to put on weight - przybierać na wadze
+scar - blizna
+scruffy - niechlujny
+shapely - zgrabny
+shaven - ogolony
+short - niski
+sideburns - baczki; bokobrody
+silhouette - sylwetka
+slender - smukły
+slightly built - drobnej budowy
+slim - szczupły
+smile - uśmiech
+to smile - uśmiechać się
+spotty - pryszczaty
+squint - zez
+stocky - krępy
+stout - tęgi
+strong - silny
+suntan - opalenizna
+suntanned - opalony
+tall - wysoki
+tattoo - tatuaż
+tawny - śniady; ogorzały
+they all wore beards - wszyscy nosili brody
+they looked tired - wyglądali na zmęczonych
+tiny - drobny
+turned up nose - zadarty nos
+ugly - brzydki
+underweight - niedowaga
+weak - słaby
+weight - waga
+well-dressed - dobrze ubrany
+wrinkle - zmarszczka
+wrinkled - pomarszczony
+a gift for languages - talent do języków
+a word to the wise - mądrej głowie dość dwie słowie
+ably - umiejętnie; zręcznie
+to absorb knowledge - chłonąć wiedzę
+act the fool - udawać głupiego
+analysis - analiza
+aptitude - uzdolnienie; zdolność
+aptitude test - test zdolności
+to argue - argumentować
+argument - argument
+association - skojarzenie
+to be a slow learner - wolno się uczyć
+to be mistaken - być w błędzie
+bigheaded - przemądrzały
+blithering idiot - skończony idiota
+boffin - jajogłowy
+brains of a canary - ptasi móżdżek
+brainwave - olśnienie
+brainy - bystry; rozgarnięty
+brilliant - błyskotliwy
+to broaden sb's mind - poszerzać czyjeś horyzonty
+catch question - podchwytliwe pytanie
+clever - bystry; zdolny
+clueless - ciężko myślący
+to collect one's thoughts - zebrać myśli
+comprehensive - wszechstronny
+conclusion - wniosek
+cretin - kretyn
+to deduce - wnioskować; wywnioskować
+deduction - wnioskowanie; dedukcja
+deep in thought - zamyślony
+difficult to understand - trudny do zrozumienia
+to discover - odkrywać
+discovery - odkrycie
+discussion - dyskusja
+duffer - beztalencie
+dull - tępy
+educated - wykształcony
+empty-headed - głupiutki
+erudite - erudyta
+erudition - erudycja
+experience - doświadczenie
+experienced - doświadczony
+feeble-minded - słaby na umyśle
+fool - głupiec; idiota
+foolish - głupi
+foolishness - głupota
+forget - zapomnieć
+from what I know - z tego, co wiem
+genius - geniusz
+gifted - utalentowany
+to have no idea - nie mieć pojęcia
+he is good at Italian - jest dobry z włoskiego
+he's got brains - ma dobrą głowę
+hypothesis - hipoteza
+idea - myśl; pomysł
+ignoramus - ignorant; ignorantka
+ignorance - niewiedza; ignorancja
+ignorant - niedouczony
+illiterate - analfabeta
+imbecile - imbecyl
+in blissful ignorance - w błogiej niewiedzy
+ingenious - pomysłowy
+ingenuity - pomysłowość
+inquiring - dociekliwy
+intellect - intelekt
+intellectual - intelektualista
+intelligence test - test na inteligencję
+intelligent - inteligentny
+intelligently - inteligentnie
+intuition - intuicja
+inventive - pomysłowy
+inventiveness - pomysłowość
+jerk - palant
+know-all - mądrala
+knowledge - wiedza
+lack of education - brak wykształcenia
+learned - uczony
+logic - logika
+logical - logiczny
+memory - pamięć
+mental block - zaćmienie umysłu
+narrow-minded - ograniczony; o wąskich horyzontach
+noodle - głąb
+on the assumption - przy założeniu
+presence of mind - przytomność umysłu
+quickly of mind - bystrość umysłu
+reason - rozum
+right - racja
+self-taught person - samouk
+sense - sens
+simpleton - prostak
+stupid - głupi
+stupidity - głupota
+talented - utalentowany; uzdolniony
+theory - teoria
+thesis - teza
+thinker - myśliciel
+thinking - myślenie
+thoughtless - bezmyślny
+twerp - przygłup
+use your brains! - rusz głową!
+well-read - oczytany
+wise - mądry
+addiction - nałóg, uzależnienie
+addiction to drugs - lekomania
+alcohol - alkohol
+alcoholic - alkoholik
+ashtray - popielniczka
+to become addicted to - uzależniać się od czegoś
+beer - piwo
+beer can - puszka po piwie
+bottle - butelka
+brandy - brandy
+champagne - szampan
+cheroot - cygaro (krótkie)
+chew tobacco - żuć tytoń
+cigar - cygaro
+cigarette - papieros
+cigarette case - papierośnica
+cigarette end - niedopałek
+cigarette holder - cygarniczka
+coffee - kawa
+cognac - koniak
+to draw at a cigarette - zaciągać się papierosem
+drink - pić
+drug dealer - dealer
+drunk - pijany
+drunkard - pijak
+drunkenness - pijaństwo
+filter cigarette - papieros z filtrem
+gambler - hazardzista
+gambling - hazard
+glue-sniffing - wąchanie kleju
+hangover - kac
+hashish - haszysz
+he had one too many - wypił jednego za dużo
+heroin - heroina
+junkie - ćpun
+lighter - zapalniczka
+liqueur - likier
+nicotine - nikotyna
+nightcap - kieliszek przed snem
+no smoking - palenie wzbronione; zakaz palenia
+non-alcoholic - bezalkoholowy
+passive smoking - bierne palenie
+pipe - fajka
+to puff at pipe - pykać z fajki
+smoke - dym
+to smoke - palić
+smoker - palacz
+smoking - palenie
+to take drugs - brać narkotyki
+tobacco - tytoń
+vodka - wódka
+wine - wino
+to be hard of hearing - mieć słaby słuch
+bland - mdły; nijaki (smak)
+blind in one eye - niewidomy na jedno oko
+to cock one's ears - nadstawiać uszu
+deaf-aid - aparat słuchowy
+deaf-and-dumb - głuchoniemy
+deaf-mute - głuchoniemy
+deafness - głuchota
+delectable - wyśmienity (o jedzeniu)
+eyesight - wzrok
+fetid - cuchnący
+field of vision - pole widzenia
+flavour - smak
+fragrance - zapach
+fragrant - pachnący
+gimlet eyes - świdrujący wzrok
+hallucination - halucynacja
+to hear - słyszeć
+hearing - słuch
+in sight - w zasięgu wzroku
+inaudible - niesłyszalny
+to look around - rozglądać się
+to mishear - źle usłyszeć; przesłyszeć się
+mouldy - stęchły
+mustiness - stęchlizna
+out of sight - poza zasięgiem wzroku
+partially deaf - niedosłyszący
+partially sighted - niedowidzący
+sharp-eyed - bystrooki
+short-sighted - krótkowzroczny
+short-sightedness - krótkowzroczność
+sighted - widzący
+smell - węch
+smelly - śmierdzący
+stench - smród
+to stink - śmierdzieć
+stink - smród
+stone-deaf - głuchy jak pień
+sweet and sour - słodko-kwaśny
+to sweeten - słodzić; posłodzić
+taste - smak
+tasteless - bez smaku
+touch - dotyk

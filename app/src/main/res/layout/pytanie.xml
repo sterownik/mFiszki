@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="300dp"
+    android:layout_height="match_parent"
+    android:background="@drawable/rectangleproste"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textColor="@color/colorAccent"
+
+
+       android:fontFamily="@font/sourcebold"
+        android:text="Przypominajka"
+        android:textSize="20dp"
+        android:layout_height="0dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_weight="0.4"
+        android:layout_height="180dp"
+        android:id="@+id/glownebtn"
+
+        android:textSize="28dp"
+
+        android:fontFamily="@font/sourcebold"
+        android:background="@drawable/rectangleglowne"
+        android:text="Car"
+        android:textColor="#000000"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_weight="0.3"
+        android:gravity="center"
+
+        android:textColor="@color/przyciski3"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginRight="15dp"
+        android:text="Co oznacza to słowo?"
+        android:textSize="14dp"
+        android:layout_height="50dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_weight="0.3"
+        android:textSize="18dp"
+        android:layout_margin="2dp"
+        android:id="@+id/jedenbtn"
+        android:fontFamily="@font/sourcebold"
+        android:background="@drawable/rectanglejeden"
+        android:text="Samochód"
+        android:textColor="@color/tekstpytanie"
+        android:layout_height="130dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_weight="0.3"
+        android:textSize="18dp"
+        android:id="@+id/dwabtn"
+        android:layout_margin="2dp"
+        android:fontFamily="@font/sourcebold"
+        android:background="@drawable/rectangledwa"
+        android:text="Człowiek"
+        android:textColor="@color/tekstpytanie"
+        android:layout_height="130dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_weight="0.3"
+        android:textSize="18dp"
+        android:layout_margin="2dp"
+        android:id="@+id/trzybtn"
+        android:fontFamily="@font/sourcebold"
+        android:background="@drawable/rectangletrzy"
+        android:text="Dom"
+        android:textColor="@color/tekstpytanie"
+        android:layout_height="130dp"  />
+
+
+</LinearLayout>
