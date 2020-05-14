@@ -41,6 +41,7 @@ public class kategorie extends AppCompatActivity {
     int slowkapok =-16;
     int slowkawszystkie =-16;
     int zdjecie;
+    Thread thread;
     FirebaseAuth firebaseAuth;
     ImageView img;
     ProgressBar osiagniecia;
@@ -524,11 +525,11 @@ public class kategorie extends AppCompatActivity {
             @Override
             public void run() {
 
-                przebyte.setText(slowkapok+"");
-                wszystkie.setText(slowkawszystkie+"");
-
-                osiagniecia.setMax(slowkawszystkie);
-                osiagniecia.setProgress(slowkapok);
+//                przebyte.setText(slowkapok+"");
+//                wszystkie.setText(slowkawszystkie+"");
+//
+//                osiagniecia.setMax(slowkawszystkie);
+//                osiagniecia.setProgress(slowkapok);
             }
         }, 3000);
         super.onStart();
@@ -548,13 +549,35 @@ public class kategorie extends AppCompatActivity {
             @Override
             public void run() {
 
-                przebyte.setText(slowkapok+"");
-                wszystkie.setText(slowkawszystkie+"");
 
-                osiagniecia.setMax(slowkawszystkie);
-                osiagniecia.setProgress(slowkapok);
             }
         }, 3000);
+
+        thread = new Thread() {
+
+            @Override
+            public void run() {
+                try {
+                    while (!thread.isInterrupted()) {
+                        Thread.sleep(1000);
+                        runOnUiThread(new Runnable() {
+                            @Override
+                            public void run() {
+                                // update TextView here!
+                                przebyte.setText(slowkapok+"");
+                                wszystkie.setText(slowkawszystkie+"");
+
+                                osiagniecia.setMax(slowkawszystkie);
+                                osiagniecia.setProgress(slowkapok);
+                            }
+                        });
+                    }
+                } catch (InterruptedException e) {
+                }
+            }
+        };
+
+        thread.start();
 
         textView = (TextView) findViewById(R.id.txt);
         getSupportActionBar().hide();
