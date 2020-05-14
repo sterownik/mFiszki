@@ -38,8 +38,8 @@ public class kategorie extends AppCompatActivity {
     TextView nazwa;
     private DatabaseReference reff;
     FirebaseUser user;
-    int slowkapok =0;
-    int slowkawszystkie =0;
+    int slowkapok =-16;
+    int slowkawszystkie =-16;
     int zdjecie;
     FirebaseAuth firebaseAuth;
     ImageView img;
@@ -530,7 +530,7 @@ public class kategorie extends AppCompatActivity {
                 osiagniecia.setMax(slowkawszystkie);
                 osiagniecia.setProgress(slowkapok);
             }
-        }, 1500);
+        }, 3000);
         super.onStart();
     }
 
@@ -554,7 +554,7 @@ public class kategorie extends AppCompatActivity {
                 osiagniecia.setMax(slowkawszystkie);
                 osiagniecia.setProgress(slowkapok);
             }
-        }, 1500);
+        }, 3000);
 
         textView = (TextView) findViewById(R.id.txt);
         getSupportActionBar().hide();
